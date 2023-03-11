@@ -2,7 +2,9 @@
 
 Source seeds for [e2-sat-editor](https://github.com/ctlcltd/e2-sat-editor).
 
-Enigma2 Lamedb settings file format 2.4 / 2.5.
+Enigma Lamedb settings file format.
+
+Neutrino settings file format.
 
 &nbsp;
 

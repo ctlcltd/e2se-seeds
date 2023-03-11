@@ -1,0 +1,13 @@
+#NAME User - bouquets (TV)
+#SERVICE: 4097:7:0:dbe02:0:0:0:0:0:0:/enigma_db/userbouquet.dbe02.tv
+#TYPE 16385
+/enigma_db/userbouquet.dbe02.tv
+#SERVICE: 4097:7:0:dbe01:0:0:0:0:0:0:/enigma_db/userbouquet.dbe01.tv
+#TYPE 16385
+/enigma_db/userbouquet.dbe01.tv
+#SERVICE: 4097:7:0:dbe03:0:0:0:0:0:0:/enigma_db/userbouquet.dbe03.tv
+#TYPE 16385
+/enigma_db/userbouquet.dbe03.tv
+#SERVICE: 4097:7:0:dbe04:0:0:0:0:0:0:/enigma_db/userbouquet.dbe04.tv
+#TYPE 16385
+/enigma_db/userbouquet.dbe04.tv

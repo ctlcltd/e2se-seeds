@@ -1,4 +1,4 @@
-eDVB services /4/
+eDVB services /2/
 transponders
 00820000:2af8:013e
 	s 10719000:27500000:1:0:130:0:0
@@ -5494,4 +5494,4 @@ Iran International HD
 p:Volant Media,c:0007e5,c:011fff,c:0307e5,c:050001
 end
 editor: e2 SAT Editor 0.4 <https://github.com/ctlcltd/e2-sat-editor>
-datetime: 2023-03-11 17:50:49+0100
+datetime: 2023-03-11 17:37:10+0100

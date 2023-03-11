@@ -1829,5 +1829,5 @@ s:0084:00820000:3264:013e:25:3275:0,"Kabelio Das Erste",p:KABELIO.CH,c:000529,c:
 s:0085:00820000:3264:013e:25:3276:0,"Kabelio ZDF",p:KABELIO.CH,c:000533,c:011fff,c:030533,c:050001,C:4afc
 s:0899:00820000:0064:013e:25:3277:0,"BBC Persian HD",p:BBC World Service,c:0007db,c:011fff,c:0307db,c:050001
 s:089a:00820000:0064:013e:1:3278:0,"Iran International HD",p:Volant Media,c:0007e5,c:011fff,c:0307e5,c:050001
-# editor: e2 SAT Editor 0.1 <https://github.com/ctlcltd/e2-sat-editor>
-# datetime: 2022-12-29 18:59:04+0100
+# editor: e2 SAT Editor 0.4 <https://github.com/ctlcltd/e2-sat-editor>
+# datetime: 2023-03-11 17:50:49+0100
