@@ -367,7 +367,7 @@
 			<channel service_id="454d" name="Rai 3 TGR Emilia-Romagna" service_type="0016"/>
 			<channel service_id="454e" name="Rai 3 TGR Veneto" service_type="0016"/>
 			<channel service_id="454f" name="Rai 3 TGR Südtirol" service_type="0016"/>
-			<channel service_id="4550" name="Rai 3 TGR Valle d'Aosta" service_type="0016"/>
+			<channel service_id="4550" name="Rai 3 TGR Valle d&apos;Aosta" service_type="0016"/>
 			<channel service_id="4551" name="Rai 3 TGR Sardegna" service_type="0016"/>
 			<channel service_id="4552" name="Rai 3 TGR Abruzzo" service_type="0016"/>
 			<channel service_id="4553" name="Rai 3 TGR Molise" service_type="0016"/>
@@ -876,7 +876,7 @@
 			<channel service_id="013a" name="France 4" service_type="0001"/>
 			<channel service_id="013c" name="CNEWS" service_type="0001"/>
 			<channel service_id="0140" name="TF1 SERIES FILMS" service_type="0001"/>
-			<channel service_id="0141" name="L'EQUIPE" service_type="0001"/>
+			<channel service_id="0141" name="L&apos;EQUIPE" service_type="0001"/>
 			<channel service_id="0142" name="6TER" service_type="0001"/>
 			<channel service_id="0143" name="RMC STORY" service_type="0001"/>
 			<channel service_id="0144" name="RMC DECOUVERTE" service_type="0001"/>
@@ -946,7 +946,7 @@
 			<channel service_id="0d74" name="Rai Radio3 Classica" service_type="0002"/>
 			<channel service_id="0d75" name="Rai GR Parlamento" service_type="0002"/>
 			<channel service_id="0d76" name="Rai Isoradio" service_type="0002"/>
-			<channel service_id="0d77" name="Rai Radio Techete'" service_type="0002"/>
+			<channel service_id="0d77" name="Rai Radio Techete&apos;" service_type="0002"/>
 			<channel service_id="0d78" name="Rai Radio Live" service_type="0002"/>
 			<channel service_id="0d79" name="Rai Radio Kids" service_type="0002"/>
 			<channel service_id="0d7a" name="No Name Radio" service_type="0002"/>
@@ -1359,7 +1359,7 @@
 			<channel service_id="0e3a" name="RTL 102.5" service_type="0002"/>
 			<channel service_id="0e3b" name="RADIO ZETA" service_type="0002"/>
 			<channel service_id="0e3c" name="Radio 24" service_type="0002"/>
-			<channel service_id="0e3d" name="R.ONDA D'URTO" service_type="0002"/>
+			<channel service_id="0e3d" name="R.ONDA D&apos;URTO" service_type="0002"/>
 			<channel service_id="0e43" name="DEEJAY" service_type="0002"/>
 			<channel service_id="0e44" name="CAPITAL" service_type="0002"/>
 			<channel service_id="0e45" name="M DUE O" service_type="0002"/>
@@ -1865,7 +1865,7 @@
 			<channel service_id="01c8" name="TV Breizh" service_type="0001"/>
 			<channel service_id="01c9" name="Crime District" service_type="0001"/>
 			<channel service_id="01ca" name="TREK" service_type="0001"/>
-			<channel service_id="01cb" name="TOUTE L'HISTOIRE" service_type="0001"/>
+			<channel service_id="01cb" name="TOUTE L&apos;HISTOIRE" service_type="0001"/>
 			<channel service_id="01cd" name="ACTION" service_type="0001"/>
 			<channel service_id="01ce" name="MANGAS" service_type="0001"/>
 			<channel service_id="01cf" name="Science et Vie" service_type="0001"/>
@@ -1895,7 +1895,7 @@
 			<channel service_id="01ae" name="Cobalt Data" service_type="0000"/>
 		</transponder>
 		<transponder id="20d0" onid="013e" frequency="12380000" inversion="0" symbol_rate="30000000" fec_inner="9" polarization="1">
-			<channel service_id="0bc2" name="FashionTV L'Original" service_type="0016"/>
+			<channel service_id="0bc2" name="FashionTV L&apos;Original" service_type="0016"/>
 			<channel service_id="0bc3" name="Fashion TV HD" service_type="0019"/>
 			<channel service_id="0bc4" name="FTV UHD" service_type="0001"/>
 			<channel service_id="0bc5" name="Love Nature 4K" service_type="0001"/>
@@ -1931,5 +1931,5 @@
 		</transponder>
 	</sat>
 </zapit>
-<!-- Editor: e2 SAT Editor 0.4 <https://github.com/ctlcltd/e2-sat-editor> -->
-<!-- Datetime: 2023-03-13 15:51:50+0100 -->
+<!-- Editor: e2 SAT Editor 0.5 <https://github.com/ctlcltd/e2-sat-editor> -->
+<!-- Datetime: 2023-03-14 16:22:43+0100 -->

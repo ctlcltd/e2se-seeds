@@ -367,7 +367,7 @@
 			<S i="454d" n="Rai 3 TGR Emilia-Romagna" v="32b" a="1fff" p="32b" pmt="0" tx="0" t="16" vt="1" s="1" num="2200" f="0"/>
 			<S i="454e" n="Rai 3 TGR Veneto" v="32c" a="1fff" p="32c" pmt="0" tx="0" t="16" vt="1" s="1" num="2201" f="0"/>
 			<S i="454f" n="Rai 3 TGR Südtirol" v="32d" a="1fff" p="32d" pmt="0" tx="0" t="16" vt="1" s="1" num="2202" f="0"/>
-			<S i="4550" n="Rai 3 TGR Valle d'Aosta" v="32e" a="1fff" p="32e" pmt="0" tx="0" t="16" vt="1" s="1" num="2203" f="0"/>
+			<S i="4550" n="Rai 3 TGR Valle d&apos;Aosta" v="32e" a="1fff" p="32e" pmt="0" tx="0" t="16" vt="1" s="1" num="2203" f="0"/>
 			<S i="4551" n="Rai 3 TGR Sardegna" v="32f" a="1fff" p="32f" pmt="0" tx="0" t="16" vt="1" s="1" num="2204" f="0"/>
 			<S i="4552" n="Rai 3 TGR Abruzzo" v="330" a="1fff" p="330" pmt="0" tx="0" t="16" vt="1" s="1" num="2205" f="0"/>
 			<S i="4553" n="Rai 3 TGR Molise" v="331" a="1fff" p="331" pmt="0" tx="0" t="16" vt="1" s="1" num="2206" f="0"/>
@@ -876,7 +876,7 @@
 			<S i="013a" n="France 4" v="281" a="1fff" p="281" pmt="0" tx="0" t="1" vt="1" s="1" num="2604" f="0"/>
 			<S i="013c" n="CNEWS" v="295" a="1fff" p="295" pmt="0" tx="0" t="1" vt="1" s="1" num="2605" f="0"/>
 			<S i="0140" n="TF1 SERIES FILMS" v="29f" a="1fff" p="29f" pmt="0" tx="0" t="1" vt="1" s="1" num="2606" f="0"/>
-			<S i="0141" n="L'EQUIPE" v="2a9" a="1fff" p="2a9" pmt="0" tx="0" t="1" vt="1" s="1" num="2607" f="0"/>
+			<S i="0141" n="L&apos;EQUIPE" v="2a9" a="1fff" p="2a9" pmt="0" tx="0" t="1" vt="1" s="1" num="2607" f="0"/>
 			<S i="0142" n="6TER" v="2b3" a="1fff" p="2b3" pmt="0" tx="0" t="1" vt="1" s="1" num="2608" f="0"/>
 			<S i="0143" n="RMC STORY" v="2bd" a="1fff" p="2bd" pmt="0" tx="0" t="1" vt="1" s="1" num="2609" f="0"/>
 			<S i="0144" n="RMC DECOUVERTE" v="2c7" a="1fff" p="2c7" pmt="0" tx="0" t="1" vt="1" s="1" num="2610" f="0"/>
@@ -946,7 +946,7 @@
 			<S i="0d74" n="Rai Radio3 Classica" v="1fff" a="1fff" p="284" pmt="0" tx="0" t="2" vt="0" s="0" num="2128" f="0"/>
 			<S i="0d75" n="Rai GR Parlamento" v="1fff" a="1fff" p="285" pmt="0" tx="0" t="2" vt="0" s="0" num="2129" f="0"/>
 			<S i="0d76" n="Rai Isoradio" v="1fff" a="1fff" p="286" pmt="0" tx="0" t="2" vt="0" s="0" num="2130" f="0"/>
-			<S i="0d77" n="Rai Radio Techete'" v="1fff" a="1fff" p="287" pmt="0" tx="0" t="2" vt="0" s="0" num="2131" f="0"/>
+			<S i="0d77" n="Rai Radio Techete&apos;" v="1fff" a="1fff" p="287" pmt="0" tx="0" t="2" vt="0" s="0" num="2131" f="0"/>
 			<S i="0d78" n="Rai Radio Live" v="1fff" a="1fff" p="288" pmt="0" tx="0" t="2" vt="0" s="0" num="2132" f="0"/>
 			<S i="0d79" n="Rai Radio Kids" v="1fff" a="1fff" p="289" pmt="0" tx="0" t="2" vt="0" s="0" num="2133" f="0"/>
 			<S i="0d7a" n="No Name Radio" v="1fff" a="1fff" p="28a" pmt="0" tx="0" t="2" vt="0" s="0" num="2134" f="0"/>
@@ -1359,7 +1359,7 @@
 			<S i="0e3a" n="RTL 102.5" v="1fff" a="1fff" p="1914" pmt="0" tx="0" t="2" vt="0" s="0" num="2180" f="0"/>
 			<S i="0e3b" n="RADIO ZETA" v="1fff" a="1fff" p="191e" pmt="0" tx="0" t="2" vt="0" s="0" num="2181" f="0"/>
 			<S i="0e3c" n="Radio 24" v="1fff" a="1fff" p="dc6" pmt="0" tx="0" t="2" vt="0" s="0" num="2182" f="0"/>
-			<S i="0e3d" n="R.ONDA D'URTO" v="1fff" a="1fff" p="dcb" pmt="0" tx="0" t="2" vt="0" s="0" num="2183" f="0"/>
+			<S i="0e3d" n="R.ONDA D&apos;URTO" v="1fff" a="1fff" p="dcb" pmt="0" tx="0" t="2" vt="0" s="0" num="2183" f="0"/>
 			<S i="0e43" n="DEEJAY" v="1fff" a="1fff" p="dd6" pmt="0" tx="0" t="2" vt="0" s="0" num="2184" f="0"/>
 			<S i="0e44" n="CAPITAL" v="1fff" a="1fff" p="dd8" pmt="0" tx="0" t="2" vt="0" s="0" num="2185" f="0"/>
 			<S i="0e45" n="M DUE O" v="1fff" a="1fff" p="dda" pmt="0" tx="0" t="2" vt="0" s="0" num="2186" f="0"/>
@@ -1865,7 +1865,7 @@
 			<S i="01c8" n="TV Breizh" v="6a" a="1fff" p="6a" pmt="0" tx="0" t="1" vt="1" s="1" num="3228" f="0"/>
 			<S i="01c9" n="Crime District" v="6b" a="1fff" p="6b" pmt="0" tx="0" t="1" vt="1" s="1" num="3229" f="0"/>
 			<S i="01ca" n="TREK" v="6c" a="1fff" p="6c" pmt="0" tx="0" t="1" vt="1" s="1" num="3230" f="0"/>
-			<S i="01cb" n="TOUTE L'HISTOIRE" v="6d" a="1fff" p="6d" pmt="0" tx="0" t="1" vt="1" s="1" num="3231" f="0"/>
+			<S i="01cb" n="TOUTE L&apos;HISTOIRE" v="6d" a="1fff" p="6d" pmt="0" tx="0" t="1" vt="1" s="1" num="3231" f="0"/>
 			<S i="01cd" n="ACTION" v="6f" a="1fff" p="6f" pmt="0" tx="0" t="1" vt="1" s="1" num="3232" f="0"/>
 			<S i="01ce" n="MANGAS" v="70" a="1fff" p="70" pmt="0" tx="0" t="1" vt="1" s="1" num="3233" f="0"/>
 			<S i="01cf" n="Science et Vie" v="71" a="1fff" p="71" pmt="0" tx="0" t="1" vt="1" s="1" num="3234" f="0"/>
@@ -1895,7 +1895,7 @@
 			<S i="01ae" n="Cobalt Data" v="1fff" a="1fff" p="1fff" pmt="0" tx="0" t="0" vt="0" s="0" num="0" f="0"/>
 		</TS>
 		<TS id="20d0" on="013e" frq="12380000" inv="0" sr="30000000" fec="0" pol="1">
-			<S i="0bc2" n="FashionTV L'Original" v="65" a="1fff" p="65" pmt="0" tx="0" t="16" vt="1" s="0" num="0" f="0"/>
+			<S i="0bc2" n="FashionTV L&apos;Original" v="65" a="1fff" p="65" pmt="0" tx="0" t="16" vt="1" s="0" num="0" f="0"/>
 			<S i="0bc3" n="Fashion TV HD" v="6f" a="1fff" p="6f" pmt="0" tx="0" t="19" vt="1" s="0" num="0" f="0"/>
 			<S i="0bc4" n="FTV UHD" v="79" a="1fff" p="79" pmt="0" tx="0" t="1" vt="0" s="0" num="0" f="0"/>
 			<S i="0bc5" n="Love Nature 4K" v="83" a="1fff" p="83" pmt="0" tx="0" t="1" vt="0" s="1" num="0" f="0"/>
@@ -1931,5 +1931,5 @@
 		</TS>
 	</sat>
 </zapit>
-<!-- Editor: e2 SAT Editor 0.4 <https://github.com/ctlcltd/e2-sat-editor> -->
-<!-- Datetime: 2023-03-13 15:49:12+0100 -->
+<!-- Editor: e2 SAT Editor 0.5 <https://github.com/ctlcltd/e2-sat-editor> -->
+<!-- Datetime: 2023-03-14 16:21:50+0100 -->

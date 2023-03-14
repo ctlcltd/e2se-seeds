@@ -334,7 +334,7 @@
 		<channel serviceID="135a" name="Radio Supersound" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="4255" name="Radio Number One" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="0300" name="Discoradio" tsid="1b58" onid="013e" sat_position="130"/>
-		<channel serviceID="0e3d" name="R.ONDA D'URTO" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e3d" name="R.ONDA D&apos;URTO" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="02e2" name="ANNI 60" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="2ba6" name="INBLU2000" tsid="1a2c" onid="fbff" sat_position="130"/>
 		<channel serviceID="1c57" name="SMTv San Marino Radio" tsid="1c20" onid="013e" sat_position="130"/>
@@ -355,7 +355,7 @@
 		<channel serviceID="0d7e" name="Rai Radio Slovenia" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d79" name="Rai Radio Kids" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d78" name="Rai Radio Live" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d77" name="Rai Radio Techete'" tsid="1450" onid="013e" sat_position="130"/>
+		<channel serviceID="0d77" name="Rai Radio Techete&apos;" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d7b" name="Rai Radio Tutta Italiana" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d74" name="Rai Radio3 Classica" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d7d" name="Rai Radio1 Sport" tsid="1450" onid="013e" sat_position="130"/>
@@ -394,7 +394,7 @@
 		<channel serviceID="0d74" name="Rai Radio3 Classica" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d75" name="Rai GR Parlamento" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d76" name="Rai Isoradio" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d77" name="Rai Radio Techete'" tsid="1450" onid="013e" sat_position="130"/>
+		<channel serviceID="0d77" name="Rai Radio Techete&apos;" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d78" name="Rai Radio Live" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d79" name="Rai Radio Kids" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d7b" name="Rai Radio Tutta Italiana" tsid="1450" onid="013e" sat_position="130"/>
@@ -410,7 +410,7 @@
 		<channel serviceID="006e" name="Radiolina" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="0e35" name="Radio Sportiva" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0e3c" name="Radio 24" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="0e3d" name="R.ONDA D'URTO" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="0e3d" name="R.ONDA D&apos;URTO" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0e44" name="CAPITAL" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0e46" name="Radio Iglesias" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0e48" name="popolare" tsid="1c20" onid="013e" sat_position="130"/>
