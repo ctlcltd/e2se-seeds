@@ -43,7 +43,7 @@
 		<channel serviceID="013a" name="France 4" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="0131" name="France 5" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="3751" name="Kabelio M6 Music" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="3766" name="Kabelio Rouge TV CH" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3766" name="Kabelio carac 1" tsid="06a4" onid="013e" sat_position="130"/>
 		<channel serviceID="0133" name="Arte HD" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="019f" name="BFM TV" tsid="26ac" onid="013f" sat_position="130"/>
 		<channel serviceID="0327" name="France 24 HD (en Francais)" tsid="3bc4" onid="013e" sat_position="130"/>
@@ -87,7 +87,6 @@
 		<channel serviceID="0369" name="CGTN Documentary" tsid="3c28" onid="013e" sat_position="130"/>
 		<channel serviceID="1c8a" name="Al Jazeera English HD" tsid="332c" onid="013e" sat_position="130"/>
 		<channel serviceID="0323" name="TRT World HD" tsid="3bc4" onid="013e" sat_position="130"/>
-		<channel serviceID="07d2" name="RT Doc HD" tsid="22c4" onid="013e" sat_position="130"/>
 		<channel serviceID="01f8" name="NASA TV HD" tsid="0384" onid="013e" sat_position="130"/>
 		<channel serviceID="11fa" name="Nasa TV UHD" tsid="2b5c" onid="013e" sat_position="130"/>
 		<channel serviceID="04b9" name="HotBird 4K1" tsid="23f0" onid="013e" sat_position="130"/>
@@ -110,6 +109,7 @@
 		<channel serviceID="427f" name="STARS.TV" tsid="2bc0" onid="013e" sat_position="130"/>
 		<channel serviceID="428d" name="4Fun.TV" tsid="2bc0" onid="013e" sat_position="130"/>
 		<channel serviceID="428f" name="4Fun Dance" tsid="2bc0" onid="013e" sat_position="130"/>
+		<channel serviceID="2341" name="Music Box" tsid="2328" onid="013e" sat_position="130"/>
 		<channel serviceID="429c" name="Eska TV HD" tsid="2bc0" onid="013e" sat_position="130"/>
 		<channel serviceID="32d1" name="POWER TV" tsid="0190" onid="013e" sat_position="130"/>
 		<channel serviceID="32d2" name="NUTA TV" tsid="0190" onid="013e" sat_position="130"/>
@@ -143,7 +143,7 @@
 		<channel serviceID="4534" name="Rai 5 HD" tsid="30d4" onid="013e" sat_position="130"/>
 		<channel serviceID="0d4e" name="Rai Movie HD" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="214a" name="Rai Premium HD" tsid="3070" onid="013e" sat_position="130"/>
-		<channel serviceID="1018" name="cielo HD" tsid="1d4c" onid="fbff" sat_position="130"/>
+		<channel serviceID="1018" name="cielo" tsid="1d4c" onid="fbff" sat_position="130"/>
 		<channel serviceID="0087" name="27Twentyseven HD" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="2bac" name="TV2000 HD" tsid="1af4" onid="fbff" sat_position="130"/>
 		<channel serviceID="0049" name="LA7d HD" tsid="1770" onid="00be" sat_position="130"/>
@@ -178,15 +178,15 @@
 		<channel serviceID="4532" name="Rai Sport HD" tsid="30d4" onid="013e" sat_position="130"/>
 		<channel serviceID="10e1" name="MotorTrend" tsid="03e8" onid="013e" sat_position="130"/>
 		<channel serviceID="1381" name="Arte Investimenti" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="422d" name="Class TV Moda" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="064e" name="MS CHANNEL" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="0646" name="MS MOTOR TV" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="4556" name="Rai 3 TGR Furlanija Julijska Kr" tsid="30d4" onid="013e" sat_position="130"/>
-		<channel serviceID="064d" name="ACI_sportTV" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="1006" name="BIKE" tsid="1af4" onid="fbff" sat_position="130"/>
-		<channel serviceID="422d" name="Class TV Moda" tsid="2f44" onid="013e" sat_position="130"/>
+		<channel serviceID="064d" name="ACISPORT TV" tsid="2454" onid="013e" sat_position="130"/>
+		<channel serviceID="0538" name="Value24" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="052e" name="VH1 HD" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="1384" name="Solo Calcio" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="0dd3" name="BFC" tsid="1af4" onid="fbff" sat_position="130"/>
+		<channel serviceID="29e5" name="MEZZO" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="4242" name="Radio Italia Tv HD" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="1354" name="Radio Radio TV" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="4250" name="Radio Kiss Kiss Tv" tsid="3db8" onid="013e" sat_position="130"/>
@@ -210,47 +210,45 @@
 		<channel serviceID="1c8a" name="Al Jazeera English HD" tsid="332c" onid="013e" sat_position="130"/>
 		<channel serviceID="051e" name="i24News HD English" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="051d" name="i24News HD French" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="07d2" name="RT Doc HD" tsid="22c4" onid="013e" sat_position="130"/>
+		<channel serviceID="0dae" name="24H" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0215" name="NHK WORLD-JAPAN" tsid="0384" onid="013e" sat_position="130"/>
 		<channel serviceID="0369" name="CGTN Documentary" tsid="3c28" onid="013e" sat_position="130"/>
 		<channel serviceID="0bc3" name="Fashion TV HD" tsid="20d0" onid="013e" sat_position="130"/>
 		<channel serviceID="0133" name="Arte HD" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="2147" name="Camera Deputati" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="2148" name="Senato" tsid="3070" onid="013e" sat_position="130"/>
-		<channel serviceID="29e5" name="MEZZO" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="4556" name="Rai 3 TGR Furlanija Julijska Kr" tsid="30d4" onid="013e" sat_position="130"/>
 		<channel serviceID="4246" name="Radio Italia Trend TV  HD" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="2140" name="Rai Radio 2 Visual" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="052b" name="RTL 102.5 NEWS ASPI" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="4230" name="Giornale Radio" tsid="2f44" onid="013e" sat_position="130"/>
-		<channel serviceID="1364" name="Canale Italia" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="0653" name="Pop Economy" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="4243" name="EQUtv" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="0642" name="Italian Fishing TV" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="422e" name="Horse TV HD" tsid="2f44" onid="013e" sat_position="130"/>
-		<channel serviceID="0641" name="Al Jazeera HD" tsid="2454" onid="013e" sat_position="130"/>
+		<channel serviceID="0642" name="Italian Fishing TV" tsid="2454" onid="013e" sat_position="130"/>
+		<channel serviceID="0534" name="GOLD TV" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="1364" name="Canale Italia" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="4230" name="Giornale Radio" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="02c1" name="Al Jazeera Documentary" tsid="1b58" onid="013e" sat_position="130"/>
+		<channel serviceID="0641" name="Al Jazeera HD" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="030f" name="Telesur HD" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="3330" name="KBS WORLD  HD" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="1139" name="TVP INFO HD" tsid="2af8" onid="013e" sat_position="130"/>
 		<channel serviceID="4241" name="TVR International HB" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="2340" name="Jibek Joly" tsid="2328" onid="013e" sat_position="130"/>
+		<channel serviceID="2340" name="Silk Way" tsid="2328" onid="013e" sat_position="130"/>
 		<channel serviceID="4336" name="SRF info HD" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="1c8c" name="ARMPUB TV" tsid="332c" onid="013e" sat_position="130"/>
 		<channel serviceID="3334" name="RIK SAT HD" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="02c9" name="RTP International" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="0161" name="ERT World Europe" tsid="1c84" onid="013e" sat_position="130"/>
 		<channel serviceID="0dad" name="TVE Internacional" tsid="1f40" onid="013e" sat_position="130"/>
-		<channel serviceID="0dae" name="24H" tsid="1f40" onid="013e" sat_position="130"/>
+		<channel serviceID="04b9" name="HotBird 4K1" tsid="23f0" onid="013e" sat_position="130"/>
 		<channel serviceID="11fa" name="Nasa TV UHD" tsid="2b5c" onid="013e" sat_position="130"/>
 		<channel serviceID="0bc4" name="FTV UHD" tsid="20d0" onid="013e" sat_position="130"/>
 		<channel serviceID="11fc" name="Museum 4K" tsid="2b5c" onid="013e" sat_position="130"/>
 		<channel serviceID="11fd" name="MyZen 4K" tsid="2b5c" onid="013e" sat_position="130"/>
 		<channel serviceID="11fb" name="TRAVELXP 4K" tsid="2b5c" onid="013e" sat_position="130"/>
-		<channel serviceID="04b9" name="HotBird 4K1" tsid="23f0" onid="013e" sat_position="130"/>
 		<channel serviceID="0d4f" name="Rai 4K" tsid="1450" onid="013e" sat_position="130"/>
 	</Bouquet>
 	<Bouquet name="Tests" hidden="0" locked="0">
-		<channel serviceID="4267" name="Eutelsat Data 1" tsid="2f44" onid="013e" sat_position="130"/>
+		<channel serviceID="4267" name="Eutelsat data 1" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="069a" name="Eutelsat Data 1" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="338c" name="Test GC 1" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="338d" name="Test GC 2" tsid="1388" onid="013e" sat_position="130"/>
