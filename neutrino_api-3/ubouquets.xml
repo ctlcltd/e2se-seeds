@@ -125,7 +125,7 @@
 		<S i="7a" n="Canale5 HD" t="04b0" on="110" s="130" frq="11432"/>
 		<S i="79" n="Italia1 HD" t="04b0" on="110" s="130" frq="11432"/>
 		<S i="4f" n="LA7 HD" t="1770" on="be" s="130" frq="11919"/>
-		<S i="1c5c" n="TV8 HD" t="1d4c" on="fbff" s="130" frq="12206"/>
+		<S i="1c5c" n="TV8 HD" t="1a90" on="fbff" s="130" frq="12072"/>
 		<S i="10e3" n="Nove" t="03e8" on="13e" s="130" frq="11393"/>
 		<S i="530" n="People TV" t="3d54" on="13e" s="130" frq="11642"/>
 		<S i="425c" n="TVA Vicenza" t="3db8" on="13e" s="130" frq="11662"/>
@@ -143,7 +143,7 @@
 		<S i="4534" n="Rai 5 HD" t="30d4" on="13e" s="130" frq="11013"/>
 		<S i="d4e" n="Rai Movie HD" t="1450" on="13e" s="130" frq="11766"/>
 		<S i="214a" n="Rai Premium HD" t="3070" on="13e" s="130" frq="10992"/>
-		<S i="1018" n="cielo" t="1d4c" on="fbff" s="130" frq="12206"/>
+		<S i="1018" n="cielo" t="1a90" on="fbff" s="130" frq="12072"/>
 		<S i="87" n="27Twentyseven HD" t="04b0" on="110" s="130" frq="11432"/>
 		<S i="2bac" n="TV2000 HD" t="1af4" on="fbff" s="130" frq="12092"/>
 		<S i="49" n="LA7d HD" t="1770" on="be" s="130" frq="11919"/>
@@ -183,7 +183,7 @@
 		<S i="646" n="MS MOTOR TV" t="2454" on="13e" s="130" frq="12576"/>
 		<S i="1006" n="BIKE" t="1af4" on="fbff" s="130" frq="12092"/>
 		<S i="64d" n="ACISPORT TV" t="2454" on="13e" s="130" frq="12576"/>
-		<S i="538" n="Value24" t="3d54" on="13e" s="130" frq="11642"/>
+		<S i="4243" n="EQUtv" t="3db8" on="13e" s="130" frq="11662"/>
 		<S i="52e" n="VH1 HD" t="3d54" on="13e" s="130" frq="11642"/>
 		<S i="1384" n="Solo Calcio" t="33f4" on="13e" s="130" frq="11178"/>
 		<S i="29e5" n="MEZZO" t="1c20" on="13e" s="130" frq="12149"/>

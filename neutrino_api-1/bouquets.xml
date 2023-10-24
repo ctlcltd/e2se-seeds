@@ -125,7 +125,7 @@
 		<channel serviceID="007a" name="Canale5 HD" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="0079" name="Italia1 HD" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="004f" name="LA7 HD" tsid="1770" onid="00be" sat_position="130"/>
-		<channel serviceID="1c5c" name="TV8 HD" tsid="1d4c" onid="fbff" sat_position="130"/>
+		<channel serviceID="1c5c" name="TV8 HD" tsid="1a90" onid="fbff" sat_position="130"/>
 		<channel serviceID="10e3" name="Nove" tsid="03e8" onid="013e" sat_position="130"/>
 		<channel serviceID="0530" name="People TV" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="425c" name="TVA Vicenza" tsid="3db8" onid="013e" sat_position="130"/>
@@ -143,7 +143,7 @@
 		<channel serviceID="4534" name="Rai 5 HD" tsid="30d4" onid="013e" sat_position="130"/>
 		<channel serviceID="0d4e" name="Rai Movie HD" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="214a" name="Rai Premium HD" tsid="3070" onid="013e" sat_position="130"/>
-		<channel serviceID="1018" name="cielo" tsid="1d4c" onid="fbff" sat_position="130"/>
+		<channel serviceID="1018" name="cielo" tsid="1a90" onid="fbff" sat_position="130"/>
 		<channel serviceID="0087" name="27Twentyseven HD" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="2bac" name="TV2000 HD" tsid="1af4" onid="fbff" sat_position="130"/>
 		<channel serviceID="0049" name="LA7d HD" tsid="1770" onid="00be" sat_position="130"/>
@@ -183,7 +183,7 @@
 		<channel serviceID="0646" name="MS MOTOR TV" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="1006" name="BIKE" tsid="1af4" onid="fbff" sat_position="130"/>
 		<channel serviceID="064d" name="ACISPORT TV" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="0538" name="Value24" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="4243" name="EQUtv" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="052e" name="VH1 HD" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="1384" name="Solo Calcio" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="29e5" name="MEZZO" tsid="1c20" onid="013e" sat_position="130"/>
