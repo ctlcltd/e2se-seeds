@@ -14,27 +14,23 @@
 		<channel serviceID="0070" name="Kabelio RTLZWEI CH" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="007f" name="Kabelio KabelEins CH" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="0071" name="Kabelio VOX CH" tsid="3264" onid="013e" sat_position="130"/>
-		<channel serviceID="0082" name="Kabelio Super RTL CH" tsid="3264" onid="013e" sat_position="130"/>
-		<channel serviceID="4336" name="SRF info HD" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="006e" name="Kabelio ORF 2 Tirol" tsid="3264" onid="013e" sat_position="130"/>
-		<channel serviceID="0074" name="Kabelio ORF 3" tsid="3264" onid="013e" sat_position="130"/>
-		<channel serviceID="3764" name="Kabelio ITV4" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="3767" name="Kabelio Auftanken.tv" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="4336" name="SRF info HD" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="3756" name="Kabelio SWISS1" tsid="06a4" onid="013e" sat_position="130"/>
 		<channel serviceID="0065" name="Kabelio 4+" tsid="3264" onid="013e" sat_position="130"/>
-		<channel serviceID="0066" name="Kabelio 5+" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="006c" name="Kabelio Puls acht" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="006b" name="Kabelio TeleZueri" tsid="3264" onid="013e" sat_position="130"/>
-		<channel serviceID="0069" name="Kabelio 6+" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0066" name="Kabelio 5+" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="006a" name="Kabelio S1" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0069" name="Kabelio 6+" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="0068" name="Kabelio TV25" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="3755" name="Kabelio blue ZOOM D" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="36e4" name="Kabelio Tele Baern" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="36e3" name="Kabelio Tele M1" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="374b" name="Kabelio Tele Basel" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="374c" name="Kabelio Tele1" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="374d" name="Kabelio TVO" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="374e" name="Kabelio TV SuedOst" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="0074" name="Kabelio ORF 3" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0075" name="Kabelio ServusTV" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0076" name="Kabelio ORF Sport+" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0082" name="Kabelio Super RTL CH" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0087" name="Kabelio n-tv" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="0088" name="Kabelio Info" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="4333" name="RTS Un HD" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4334" name="RTS Deux HD" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="3750" name="Kabelio TF1" tsid="06a4" onid="013e" sat_position="130"/>
@@ -42,54 +38,37 @@
 		<channel serviceID="012f" name="France 3" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="013a" name="France 4" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="0131" name="France 5" tsid="3e1c" onid="013f" sat_position="130"/>
-		<channel serviceID="3751" name="Kabelio M6 Music" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="3766" name="Kabelio carac 1" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="0327" name="France 24 HD (en Francais)" tsid="3bc4" onid="013e" sat_position="130"/>
 		<channel serviceID="0133" name="Arte HD" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="019f" name="BFM TV" tsid="26ac" onid="013f" sat_position="130"/>
-		<channel serviceID="0327" name="France 24 HD (en Francais)" tsid="3bc4" onid="013e" sat_position="130"/>
-		<channel serviceID="051d" name="i24News HD French" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="0135" name="W9" tsid="3e1c" onid="013f" sat_position="130"/>
-		<channel serviceID="0142" name="6TER" tsid="3e1c" onid="013f" sat_position="130"/>
-		<channel serviceID="01a2" name="Gulli" tsid="26ac" onid="013f" sat_position="130"/>
 		<channel serviceID="4337" name="RSI LA 1 HD" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4338" name="RSI LA 2 HD" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="374a" name="Kabelio Canale 5" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="0d49" name="Rai 1 HD" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d4a" name="Rai 2 HD" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="0d4b" name="Rai 3 HD" tsid="1450" onid="013e" sat_position="130"/>
-		<channel serviceID="452f" name="Rai News 24 HD" tsid="30d4" onid="013e" sat_position="130"/>
-		<channel serviceID="4532" name="Rai Sport HD" tsid="30d4" onid="013e" sat_position="130"/>
-		<channel serviceID="4530" name="Rai Gulp HD" tsid="30d4" onid="013e" sat_position="130"/>
-		<channel serviceID="2149" name="Rai Scuola HD" tsid="3070" onid="013e" sat_position="130"/>
-		<channel serviceID="2146" name="Rai Storia HD" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="07e1" name="Euronews Italian" tsid="22c4" onid="013e" sat_position="130"/>
 		<channel serviceID="0080" name="TGCOM24 HD" tsid="04b0" onid="0110" sat_position="130"/>
+		<channel serviceID="2149" name="Rai Scuola HD" tsid="3070" onid="013e" sat_position="130"/>
+		<channel serviceID="2146" name="Rai Storia HD" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="051b" name="RTL 102.5 HD" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="051c" name="RADIOFRECCIA HD" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0529" name="RADIO ZETA HD" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="052b" name="RTL 102.5 NEWS ASPI" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="375a" name="Kabelio BBC1 London" tsid="06a4" onid="013e" sat_position="130"/>
 		<channel serviceID="375b" name="Kabelio BBC2" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="375d" name="Kabelio BBC4/CBBCs" tsid="06a4" onid="013e" sat_position="130"/>
 		<channel serviceID="375c" name="Kabelio ITV1 London" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="375e" name="Kabelio Channel 4" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="375f" name="Kabelio Channel 5" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="3760" name="Kabelio Viaplay Xtra" tsid="06a4" onid="013e" sat_position="130"/>
 		<channel serviceID="200c" name="BBC News" tsid="24b8" onid="013e" sat_position="130"/>
-		<channel serviceID="1c4d" name="CNBC HD" tsid="1a2c" onid="fbff" sat_position="130"/>
-		<channel serviceID="3768" name="Kabelio ITV2" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="332d" name="DW English HD" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="0328" name="France 24 HD (in English)" tsid="3bc4" onid="013e" sat_position="130"/>
 		<channel serviceID="0321" name="Euronews English HD" tsid="3bc4" onid="013e" sat_position="130"/>
+		<channel serviceID="0328" name="France 24 HD (in English)" tsid="3bc4" onid="013e" sat_position="130"/>
+		<channel serviceID="1c4d" name="CNBC HD" tsid="1a2c" onid="fbff" sat_position="130"/>
+		<channel serviceID="0323" name="TRT World HD" tsid="3bc4" onid="013e" sat_position="130"/>
+		<channel serviceID="332d" name="DW English HD" tsid="1388" onid="013e" sat_position="130"/>
+		<channel serviceID="1c8a" name="Al Jazeera English HD" tsid="332c" onid="013e" sat_position="130"/>
 		<channel serviceID="1c86" name="Bloomberg European TV" tsid="332c" onid="013e" sat_position="130"/>
+		<channel serviceID="01f8" name="NASA TV HD" tsid="0384" onid="013e" sat_position="130"/>
 		<channel serviceID="0215" name="NHK WORLD-JAPAN" tsid="0384" onid="013e" sat_position="130"/>
 		<channel serviceID="06aa" name="CGTN" tsid="3138" onid="013e" sat_position="130"/>
 		<channel serviceID="0369" name="CGTN Documentary" tsid="3c28" onid="013e" sat_position="130"/>
-		<channel serviceID="1c8a" name="Al Jazeera English HD" tsid="332c" onid="013e" sat_position="130"/>
-		<channel serviceID="0323" name="TRT World HD" tsid="3bc4" onid="013e" sat_position="130"/>
-		<channel serviceID="01f8" name="NASA TV HD" tsid="0384" onid="013e" sat_position="130"/>
 		<channel serviceID="11fa" name="Nasa TV UHD" tsid="2b5c" onid="013e" sat_position="130"/>
-		<channel serviceID="04b9" name="HotBird 4K1" tsid="23f0" onid="013e" sat_position="130"/>
+		<channel serviceID="0bc4" name="FTV UHD" tsid="20d0" onid="013e" sat_position="130"/>
 		<channel serviceID="02c9" name="RTP International" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="0dad" name="TVE Internacional" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0dae" name="24H" tsid="1f40" onid="013e" sat_position="130"/>
@@ -101,6 +80,7 @@
 		<channel serviceID="252c" name="Sky News Arabia" tsid="13ef" onid="013e" sat_position="130"/>
 		<channel serviceID="2529" name="AL Arabia HD" tsid="13ef" onid="013e" sat_position="130"/>
 		<channel serviceID="0641" name="Al Jazeera HD" tsid="2454" onid="013e" sat_position="130"/>
+		<channel serviceID="3768" name="Kabelio ITV2" tsid="06a4" onid="013e" sat_position="130"/>
 		<channel serviceID="39d1" name="BBC Persian HD" tsid="1fa4" onid="013e" sat_position="130"/>
 		<channel serviceID="1139" name="TVP INFO HD" tsid="2af8" onid="013e" sat_position="130"/>
 		<channel serviceID="0e83" name="TVP Polonia" tsid="3200" onid="013e" sat_position="130"/>
@@ -109,13 +89,31 @@
 		<channel serviceID="427f" name="STARS.TV" tsid="2bc0" onid="013e" sat_position="130"/>
 		<channel serviceID="428d" name="4Fun.TV" tsid="2bc0" onid="013e" sat_position="130"/>
 		<channel serviceID="428f" name="4Fun Dance" tsid="2bc0" onid="013e" sat_position="130"/>
-		<channel serviceID="2341" name="Music Box" tsid="2328" onid="013e" sat_position="130"/>
 		<channel serviceID="429c" name="Eska TV HD" tsid="2bc0" onid="013e" sat_position="130"/>
 		<channel serviceID="32d1" name="POWER TV" tsid="0190" onid="013e" sat_position="130"/>
 		<channel serviceID="32d2" name="NUTA TV" tsid="0190" onid="013e" sat_position="130"/>
-		<channel serviceID="32d3" name="NUTA GOLD" tsid="0190" onid="013e" sat_position="130"/>
+		<channel serviceID="0132" name="M6 HD" tsid="3e1c" onid="013f" sat_position="130"/>
+		<channel serviceID="0135" name="W9" tsid="3e1c" onid="013f" sat_position="130"/>
+		<channel serviceID="0142" name="6TER" tsid="3e1c" onid="013f" sat_position="130"/>
+		<channel serviceID="01a2" name="Gulli" tsid="26ac" onid="013f" sat_position="130"/>
+		<channel serviceID="36e3" name="Kabelio Tele M1" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="36e4" name="Kabelio Tele Baern" tsid="06a4" onid="013e" sat_position="130"/>
 		<channel serviceID="36e5" name="Kabelio Leman Bleu" tsid="06a4" onid="013e" sat_position="130"/>
-		<channel serviceID="0075" name="Kabelio ServusTV" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="374b" name="Kabelio Tele Basel" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="374c" name="Kabelio Tele1" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="374d" name="Kabelio TVO" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="374e" name="Kabelio TV SuedOst" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3751" name="Kabelio M6 Music" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="375d" name="Kabelio BBC4/CBBCs" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="375e" name="Kabelio Channel 4" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="375f" name="Kabelio Channel 5" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3760" name="Kabelio Viaplay Xtra" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3764" name="Kabelio ITV4" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3765" name="Kabelio BBC3/CBBC" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3766" name="Kabelio carac 1" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3767" name="Kabelio Auftanken.tv" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3768" name="Kabelio ITV2" tsid="06a4" onid="013e" sat_position="130"/>
+		<channel serviceID="3769" name="Kabelio Film 4" tsid="06a4" onid="013e" sat_position="130"/>
 	</Bouquet>
 	<Bouquet name="Italy" hidden="0" locked="0">
 		<channel serviceID="0d49" name="Rai 1 HD" tsid="1450" onid="013e" sat_position="130"/>
@@ -145,7 +143,7 @@
 		<channel serviceID="214a" name="Rai Premium HD" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="1018" name="cielo" tsid="1a90" onid="fbff" sat_position="130"/>
 		<channel serviceID="0087" name="27Twentyseven HD" tsid="04b0" onid="0110" sat_position="130"/>
-		<channel serviceID="2bac" name="TV2000 HD" tsid="1af4" onid="fbff" sat_position="130"/>
+		<channel serviceID="110d" name="TV2000 HD" tsid="1a2c" onid="fbff" sat_position="130"/>
 		<channel serviceID="0049" name="LA7d HD" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="007f" name="La5 HD" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="3b61" name="Realtime Italy" tsid="012c" onid="013e" sat_position="130"/>
@@ -167,7 +165,7 @@
 		<channel serviceID="052f" name="Super!" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="452f" name="Rai News 24 HD" tsid="30d4" onid="013e" sat_position="130"/>
 		<channel serviceID="0082" name="Mediaset Italia2 HD" tsid="04b0" onid="0110" sat_position="130"/>
-		<channel serviceID="34de" name="Explorer HD Channel" tsid="1af4" onid="fbff" sat_position="130"/>
+		<channel serviceID="34de" name="Explorer HD Channel" tsid="2008" onid="fbff" sat_position="130"/>
 		<channel serviceID="0080" name="TGCOM24 HD" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="3b62" name="DMAX Italy" tsid="012c" onid="013e" sat_position="130"/>
 		<channel serviceID="07e1" name="Euronews Italian" tsid="22c4" onid="013e" sat_position="130"/>
@@ -181,21 +179,21 @@
 		<channel serviceID="422d" name="Class TV Moda" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="064e" name="MS CHANNEL" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="0646" name="MS MOTOR TV" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="1006" name="BIKE" tsid="1af4" onid="fbff" sat_position="130"/>
+		<channel serviceID="1006" name="BIKE" tsid="1a2c" onid="fbff" sat_position="130"/>
 		<channel serviceID="064d" name="ACISPORT TV" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="4243" name="EQUtv" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="052e" name="VH1 HD" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="422b" name="Mezzo TV" tsid="2f44" onid="013e" sat_position="130"/>
+		<channel serviceID="0642" name="Italian Fishing TV" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="1384" name="Solo Calcio" tsid="33f4" onid="013e" sat_position="130"/>
-		<channel serviceID="29e5" name="MEZZO" tsid="1c20" onid="013e" sat_position="130"/>
+		<channel serviceID="052b" name="RTL 102.5 NEWS ASPI" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="4242" name="Radio Italia Tv HD" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="1354" name="Radio Radio TV" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="4251" name="RDS  Social TV" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="4250" name="Radio Kiss Kiss Tv" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="051c" name="RADIOFRECCIA HD" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="4251" name="RDS  Social TV" tsid="3db8" onid="013e" sat_position="130"/>
+		<channel serviceID="4246" name="Radio Italia Trend TV  HD" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="051f" name="RADIONORBA TV" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0529" name="RADIO ZETA HD" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="0077" name="RADIO MONTE CARLO" tsid="04b0" onid="0110" sat_position="130"/>
-		<channel serviceID="4252" name="RDS Relax" tsid="3db8" onid="013e" sat_position="130"/>
+		<channel serviceID="2140" name="Rai Radio 2 Visual" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="0076" name="VIRGIN RADIO" tsid="04b0" onid="0110" sat_position="130"/>
 		<channel serviceID="200c" name="BBC News" tsid="24b8" onid="013e" sat_position="130"/>
 		<channel serviceID="0321" name="Euronews English HD" tsid="3bc4" onid="013e" sat_position="130"/>
@@ -208,8 +206,8 @@
 		<channel serviceID="0368" name="CGTN" tsid="3c28" onid="013e" sat_position="130"/>
 		<channel serviceID="332d" name="DW English HD" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="1c8a" name="Al Jazeera English HD" tsid="332c" onid="013e" sat_position="130"/>
-		<channel serviceID="051e" name="i24News HD English" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="051d" name="i24News HD French" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="02c1" name="Al Jazeera Documentary" tsid="1b58" onid="013e" sat_position="130"/>
+		<channel serviceID="019f" name="BFM TV" tsid="26ac" onid="013f" sat_position="130"/>
 		<channel serviceID="0dae" name="24H" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="0215" name="NHK WORLD-JAPAN" tsid="0384" onid="013e" sat_position="130"/>
 		<channel serviceID="0369" name="CGTN Documentary" tsid="3c28" onid="013e" sat_position="130"/>
@@ -218,18 +216,18 @@
 		<channel serviceID="2147" name="Camera Deputati" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="2148" name="Senato" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="4556" name="Rai 3 TGR Furlanija Julijska Kr" tsid="30d4" onid="013e" sat_position="130"/>
-		<channel serviceID="4246" name="Radio Italia Trend TV  HD" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="2140" name="Rai Radio 2 Visual" tsid="3070" onid="013e" sat_position="130"/>
-		<channel serviceID="052b" name="RTL 102.5 NEWS ASPI" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="422e" name="Horse TV HD" tsid="2f44" onid="013e" sat_position="130"/>
-		<channel serviceID="0642" name="Italian Fishing TV" tsid="2454" onid="013e" sat_position="130"/>
-		<channel serviceID="0534" name="GOLD TV" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="1364" name="Canale Italia" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="4244" name="Arte Atelier" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="4230" name="Giornale Radio" tsid="2f44" onid="013e" sat_position="130"/>
-		<channel serviceID="02c1" name="Al Jazeera Documentary" tsid="1b58" onid="013e" sat_position="130"/>
+		<channel serviceID="4243" name="EQUtv" tsid="3db8" onid="013e" sat_position="130"/>
+		<channel serviceID="4234" name="ByoBlu" tsid="2f44" onid="013e" sat_position="130"/>
+		<channel serviceID="1364" name="Canale Italia" tsid="33f4" onid="013e" sat_position="130"/>
+		<channel serviceID="0534" name="GOLD TV" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="0096" name="TEST" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="0641" name="Al Jazeera HD" tsid="2454" onid="013e" sat_position="130"/>
+		<channel serviceID="2529" name="AL Arabia HD" tsid="13ef" onid="013e" sat_position="130"/>
 		<channel serviceID="030f" name="Telesur HD" tsid="1f40" onid="013e" sat_position="130"/>
-		<channel serviceID="3330" name="KBS WORLD  HD" tsid="1388" onid="013e" sat_position="130"/>
+		<channel serviceID="1325" name="KBS WORLD" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="1139" name="TVP INFO HD" tsid="2af8" onid="013e" sat_position="130"/>
 		<channel serviceID="4241" name="TVR International HB" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="2340" name="Silk Way" tsid="2328" onid="013e" sat_position="130"/>
@@ -273,32 +271,29 @@
 		<channel serviceID="4345" name="SRF 1" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4346" name="SRF 2 Kultur" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4347" name="SRF 3" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4355" name="SRF 4 News" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4353" name="Swiss Pop" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4354" name="Swiss Jazz" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4352" name="Swiss Classic" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4348" name="SRF Virus" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4349" name="SRF Musikwelle" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="434a" name="Radio RTR" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="434b" name="RTS-1ere" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="434c" name="Espace 2" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="434d" name="Couleur3" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="434e" name="Option Musique" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4358" name="SRF 1 AG SO" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="435a" name="SRF 1 BE FR VS" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="435e" name="SRF 1 GR" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4359" name="SRF 1 BS" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="435b" name="SRF 1 LU" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="435c" name="SRF 1 SG" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="435d" name="SRF 1 ZH SH" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4348" name="SRF Virus" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="4349" name="SRF Musikwelle" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="434f" name="Rete Uno" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4350" name="Rete Due" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4351" name="Rete Tre" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="3343" name="DW-FM01" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="3344" name="DW-FM02" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="3341" name="DW08" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="3342" name="DW09" tsid="1388" onid="013e" sat_position="130"/>
+		<channel serviceID="4352" name="Swiss Classic" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4353" name="Swiss Pop" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4354" name="Swiss Jazz" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4355" name="SRF 4 News" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4357" name="Swiss Classique" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="435f" name="Swiss Classica" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4358" name="SRF 1 AG SO" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="4359" name="SRF 1 BS" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="435a" name="SRF 1 BE FR VS" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="435b" name="SRF 1 LU" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="435c" name="SRF 1 SG" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="435d" name="SRF 1 ZH SH" tsid="300c" onid="013e" sat_position="130"/>
+		<channel serviceID="435e" name="SRF 1 GR" tsid="300c" onid="013e" sat_position="130"/>
 	</Bouquet>
 	<Bouquet name="Italy" hidden="0" locked="0">
 		<channel serviceID="0d71" name="Rai Radio 1" tsid="1450" onid="013e" sat_position="130"/>
@@ -332,7 +327,6 @@
 		<channel serviceID="1c57" name="SMTv San Marino Radio" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="006a" name="RADIO SUBASIO" tsid="1770" onid="00be" sat_position="130"/>
 		<channel serviceID="006e" name="Radiolina" tsid="1770" onid="00be" sat_position="130"/>
-		<channel serviceID="02ed" name="R. Eurospin" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="135e" name="Radio Cusano Campus" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="0d75" name="Rai GR Parlamento" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0e3c" name="Radio 24" tsid="1c20" onid="013e" sat_position="130"/>
@@ -343,7 +337,7 @@
 		<channel serviceID="1c70" name="RADIO MATER" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="02dc" name="Radio Maria" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="0532" name="RVS-Accendi la Speranza" tsid="3d54" onid="013e" sat_position="130"/>
-		<channel serviceID="2bad" name="Radio Vaticana Europa" tsid="1af4" onid="fbff" sat_position="130"/>
+		<channel serviceID="110e" name="Radio Vaticana Europa" tsid="1a2c" onid="fbff" sat_position="130"/>
 		<channel serviceID="0d7c" name="L’Ora della Venezia Giulia" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d7e" name="Rai Radio Slovenia" tsid="1450" onid="013e" sat_position="130"/>
 		<channel serviceID="0d79" name="Rai Radio Kids" tsid="1450" onid="013e" sat_position="130"/>
@@ -425,7 +419,6 @@
 		<channel serviceID="02e4" name="R. Italia S.m.i." tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02e6" name="Radio Kiss Kiss" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02e8" name="Radio PadrePio" tsid="1b58" onid="013e" sat_position="130"/>
-		<channel serviceID="02ed" name="R. Eurospin" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02f9" name="Radio RADICALE" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02fe" name="DimSuono Soft  MI" tsid="1b58" onid="013e" sat_position="130"/>
 		<channel serviceID="02ff" name="DimSuono Soft RM" tsid="1b58" onid="013e" sat_position="130"/>
@@ -433,7 +426,7 @@
 		<channel serviceID="4255" name="Radio Number One" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="2b7b" name="InBlu" tsid="1a2c" onid="fbff" sat_position="130"/>
 		<channel serviceID="2ba6" name="INBLU2000" tsid="1a2c" onid="fbff" sat_position="130"/>
-		<channel serviceID="2bad" name="Radio Vaticana Europa" tsid="1af4" onid="fbff" sat_position="130"/>
+		<channel serviceID="110e" name="Radio Vaticana Europa" tsid="1a2c" onid="fbff" sat_position="130"/>
 		<channel serviceID="0532" name="RVS-Accendi la Speranza" tsid="3d54" onid="013e" sat_position="130"/>
 		<channel serviceID="1c72" name="R.BuonConsiglio" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="1c70" name="RADIO MATER" tsid="1c20" onid="013e" sat_position="130"/>
@@ -522,7 +515,6 @@
 		<channel serviceID="039c" name="OMAN HOLY QURAN" tsid="2134" onid="013e" sat_position="130"/>
 		<channel serviceID="2531" name="AL SHARJAH RADIO" tsid="13ef" onid="013e" sat_position="130"/>
 		<channel serviceID="334a" name="RFI Francais" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="334b" name="RFI Langues Est" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="334c" name="RFI Langues Div" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="334d" name="RFI Afrique" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="334e" name="RFI Divers 7" tsid="1388" onid="013e" sat_position="130"/>
@@ -535,6 +527,6 @@
 		<channel serviceID="3355" name="RFI Chisinau" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3356" name="RFI Albania" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3357" name="RFI Liban" tsid="1388" onid="013e" sat_position="130"/>
-		<channel serviceID="3358" name="RFI Persian" tsid="1388" onid="013e" sat_position="130"/>
+		<channel serviceID="3358" name="RFI Test HB" tsid="1388" onid="013e" sat_position="130"/>
 	</Bouquet>
 </zapit>
