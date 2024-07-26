@@ -4,7 +4,7 @@ Source seeds for [e2-sat-editor](https://github.com/ctlcltd/e2-sat-editor).
 
 Enigma Lamedb settings file format.
 
-Neutrino xml settings file format.
+Neutrino XML settings file format.
 
 &nbsp;
 
