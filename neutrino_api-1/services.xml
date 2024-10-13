@@ -1,28 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zapit>
-	<sat name="0.0E" diseqc="0" position="0">
-		<transponder id="0200" onid="001d" frequency="690000000" inversion="0" symbol_rate="-1000" fec_inner="-1" polarization="-1">
-			<channel service_id="005a" name="Sky TG24" service_type="0016"/>
-			<channel service_id="0028" name="SUPERTENNIS" service_type="0019"/>
-		</transponder>
-		<transponder id="7918" onid="217c" frequency="658000000" inversion="0" symbol_rate="-1000" fec_inner="-1" polarization="-1">
-			<channel service_id="0051" name="SPORTITALIA HD" service_type="0019"/>
-			<channel service_id="0029" name="Deejay TV HD" service_type="0019"/>
-		</transponder>
-		<transponder id="0385" onid="0110" frequency="674000000" inversion="0" symbol_rate="-1000" fec_inner="-1" polarization="-1">
-			<channel service_id="0074" name="RADIO 105" service_type="0019"/>
-			<channel service_id="0065" name="R101 TV" service_type="0019"/>
-		</transponder>
-		<transponder id="0389" onid="0110" frequency="594000000" inversion="0" symbol_rate="-1000" fec_inner="-1" polarization="-1">
-			<channel service_id="084e" name="Boing Plus" service_type="0016"/>
-		</transponder>
-		<transponder id="03a2" onid="0110" frequency="610000000" inversion="0" symbol_rate="-1000" fec_inner="-1" polarization="-1">
-			<channel service_id="0c80" name="Test HEVC Main10" service_type="001f"/>
-		</transponder>
-		<transponder id="0002" onid="217c" frequency="626000000" inversion="0" symbol_rate="-1000" fec_inner="-1" polarization="-1">
-			<channel service_id="041b" name="Rai Sport HD test HEVC" service_type="001f"/>
-		</transponder>
-	</sat>
 	<sat name="Hot Bird" diseqc="0" position="130">
 		<transponder id="2af8" onid="013e" frequency="10719000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
 			<channel service_id="1133" name="BBC FIRST" service_type="0001"/>
@@ -64,15 +41,14 @@
 			<channel service_id="1190" name="NETFLIX" service_type="0002"/>
 		</transponder>
 		<transponder id="2b5c" onid="013e" frequency="10728000" inversion="0" symbol_rate="30000000" fec_inner="3" polarization="0">
-			<channel service_id="11fa" name="Nasa TV UHD" service_type="0001"/>
 			<channel service_id="11fb" name="TravelXP 4K" service_type="001f"/>
 			<channel service_id="11fc" name="Museum 4K" service_type="0001"/>
 			<channel service_id="11fd" name="MyZen 4K" service_type="0001"/>
 		</transponder>
 		<transponder id="2bc0" onid="013e" frequency="10758000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
-			<channel service_id="4279" name="wPolsce.pl" service_type="0001"/>
+			<channel service_id="4279" name="wPolsce24" service_type="0001"/>
 			<channel service_id="427b" name="Stopklatka" service_type="0001"/>
-			<channel service_id="427c" name="CH17020" service_type="0001"/>
+			<channel service_id="427c" name="Stopklatka" service_type="0001"/>
 			<channel service_id="427f" name="STARS.TV" service_type="0001"/>
 			<channel service_id="4280" name="Da Vinci" service_type="0001"/>
 			<channel service_id="4284" name="Polsat Games HD" service_type="0001"/>
@@ -87,13 +63,12 @@
 			<channel service_id="4291" name="Zoom TV" service_type="0001"/>
 			<channel service_id="4293" name="Polsat Music HD" service_type="0001"/>
 			<channel service_id="4294" name="Polsat Music HD" service_type="0001"/>
-			<channel service_id="4298" name="VOX Music TV" service_type="0001"/>
-			<channel service_id="4299" name="Eska Rock" service_type="0001"/>
 			<channel service_id="429a" name="Polo TV" service_type="0001"/>
-			<channel service_id="429b" name="Eska TV Extra" service_type="0001"/>
 			<channel service_id="429c" name="Eska TV HD" service_type="0001"/>
 			<channel service_id="429d" name="Fokus TV HD" service_type="0001"/>
 			<channel service_id="429e" name="Nowa TV" service_type="0001"/>
+			<channel service_id="42c2" name="Polo TV" service_type="0001"/>
+			<channel service_id="42c5" name="Fokus TV HD" service_type="0001"/>
 		</transponder>
 		<transponder id="2c88" onid="013e" frequency="10796000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
 			<channel service_id="3d56" name="Motowizja HD" service_type="0001"/>
@@ -130,11 +105,6 @@
 			<channel service_id="3db5" name="CH15797" service_type="0000"/>
 		</transponder>
 		<transponder id="2cec" onid="013e" frequency="10815000" inversion="0" symbol_rate="27500000" fec_inner="5" polarization="0">
-			<channel service_id="43a0" name="GNC" service_type="0001"/>
-			<channel service_id="43a5" name="TBN Russia" service_type="0001"/>
-			<channel service_id="43c0" name="The Overcomer" service_type="0002"/>
-			<channel service_id="43dd" name="The Word Network" service_type="0001"/>
-			<channel service_id="43de" name="Eurasia Worldwide" service_type="0001"/>
 		</transponder>
 		<transponder id="2db4" onid="013e" frequency="10853000" inversion="0" symbol_rate="29900000" fec_inner="2" polarization="0">
 			<channel service_id="00c9" name="Kabelio Tele Baern" service_type="0019"/>
@@ -167,7 +137,7 @@
 			<channel service_id="00fd" name="Kabelio S1" service_type="0019"/>
 			<channel service_id="00fe" name="Kabelio TMC CH" service_type="0019"/>
 			<channel service_id="0100" name="Kabelio Sky News" service_type="0019"/>
-			<channel service_id="0101" name="Kabelio Mooz Dance" service_type="0019"/>
+			<channel service_id="0101" name="Kabelio TV8 Italia" service_type="0019"/>
 			<channel service_id="0a01" name="VirtualChannelTest" service_type="0001"/>
 		</transponder>
 		<transponder id="2e18" onid="00b0" frequency="10873000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
@@ -237,6 +207,7 @@
 			<channel service_id="3e44" name="13 Ulica HD" service_type="0001"/>
 		</transponder>
 		<transponder id="2f44" onid="013e" frequency="10930000" inversion="0" symbol_rate="30000000" fec_inner="2" polarization="0">
+			<channel service_id="0001" name="FileCasting" service_type="0000"/>
 			<channel service_id="4206" name="DORCEL TV HD" service_type="0001"/>
 			<channel service_id="421c" name="UATV" service_type="0016"/>
 			<channel service_id="422b" name="Mezzo TV" service_type="0001"/>
@@ -244,7 +215,7 @@
 			<channel service_id="422d" name="Class TV Moda" service_type="0016"/>
 			<channel service_id="422e" name="Horse TV HD" service_type="0019"/>
 			<channel service_id="422f" name="Brazzers HD SBB" service_type="0019"/>
-			<channel service_id="4231" name="Salvation TV MENA" service_type="0001"/>
+			<channel service_id="4231" name="Salvation TV Europe VM-093" service_type="0001"/>
 			<channel service_id="4232" name="Dla Ciebie TV" service_type="0019"/>
 			<channel service_id="4234" name="ByoBlu" service_type="0001"/>
 			<channel service_id="4236" name="Dim TV" service_type="0016"/>
@@ -356,6 +327,7 @@
 			<channel service_id="06ad" name="Service 1709" service_type="0002"/>
 			<channel service_id="06af" name="Chaine 2" service_type="0002"/>
 			<channel service_id="06b0" name="Just TV" service_type="0001"/>
+			<channel service_id="06b1" name="RTVI" service_type="0001"/>
 			<channel service_id="06b2" name="SOYUZ" service_type="0001"/>
 			<channel service_id="06b6" name="8 TV RU" service_type="0001"/>
 			<channel service_id="06b9" name="Eko TV" service_type="0001"/>
@@ -406,6 +378,7 @@
 			<channel service_id="0085" name="Kabelio ZDF" service_type="0019"/>
 			<channel service_id="0087" name="Kabelio n-tv" service_type="0001"/>
 			<channel service_id="0088" name="Kabelio Info" service_type="0001"/>
+			<channel service_id="008b" name="Kabelio Spare" service_type="0000"/>
 		</transponder>
 		<transponder id="32c8" onid="013e" frequency="11117000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
 			<channel service_id="0709" name="Polsat Sport Premium 1" service_type="0001"/>
@@ -418,10 +391,8 @@
 			<channel service_id="1c8a" name="Al Jazeera English HD" service_type="0019"/>
 			<channel service_id="1c8b" name="Iran International" service_type="0001"/>
 			<channel service_id="1c8c" name="ARMPUB TV" service_type="0001"/>
-			<channel service_id="1c8d" name="AIRMONT" service_type="0001"/>
 			<channel service_id="1c8e" name="GNC" service_type="0001"/>
 			<channel service_id="1c8f" name="TBN Russia" service_type="0001"/>
-			<channel service_id="1c90" name="The Overcomer" service_type="0002"/>
 			<channel service_id="1c91" name="The Word Network" service_type="0001"/>
 			<channel service_id="1c92" name="Eurasia Worldwide" service_type="0001"/>
 			<channel service_id="1ca5" name="WNS.TEL" service_type="0001"/>
@@ -462,13 +433,12 @@
 			<channel service_id="33a8" name="Polsat Film HD" service_type="0001"/>
 			<channel service_id="33b8" name="Polsat Film HD" service_type="0001"/>
 			<channel service_id="33c8" name="Polsat Film HD" service_type="0001"/>
+			<channel service_id="33ab" name="Super Polsat HD" service_type="0001"/>
 		</transponder>
 		<transponder id="33f4" onid="013e" frequency="11178000" inversion="0" symbol_rate="27500000" fec_inner="2" polarization="0">
 			<channel service_id="1325" name="KBS WORLD" service_type="0001"/>
 			<channel service_id="1328" name="Al Karma TV-ME" service_type="0001"/>
 			<channel service_id="132e" name="Sender Neu Jerusalem" service_type="0001"/>
-			<channel service_id="134b" name="HADI TV 3" service_type="0001"/>
-			<channel service_id="1359" name="Radio Sintony" service_type="0002"/>
 			<channel service_id="135a" name="Radio Supersound" service_type="0002"/>
 			<channel service_id="135b" name="Radio Gamma Stereo" service_type="0002"/>
 			<channel service_id="135d" name="Radio Margherita" service_type="0002"/>
@@ -499,19 +469,15 @@
 		<transponder id="0190" onid="013e" frequency="11278000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
 			<channel service_id="32cc" name="AXN SPIN HD" service_type="0001"/>
 			<channel service_id="32cd" name="CANAL+ NOW" service_type="0001"/>
-			<channel service_id="32ce" name="ELEVEN SPORTS 4 HD" service_type="0001"/>
-			<channel service_id="32cf" name="ANTENA" service_type="0001"/>
-			<channel service_id="32d0" name="HOME TV" service_type="0001"/>
-			<channel service_id="32d1" name="POWER TV" service_type="0001"/>
-			<channel service_id="32d2" name="NUTA TV" service_type="0001"/>
-			<channel service_id="32d3" name="NUTA GOLD" service_type="0001"/>
-			<channel service_id="32d4" name="TVC" service_type="0001"/>
-			<channel service_id="32d5" name="ADVENTURE HD" service_type="0001"/>
 			<channel service_id="32d8" name="Active Family" service_type="0001"/>
+			<channel service_id="32db" name="CANAL+ 4K ULTRA HD" service_type="001f"/>
 			<channel service_id="32dc" name="CANAL+ PREMIUM HD" service_type="0001"/>
 			<channel service_id="32de" name="CANAL+ SPORT HD" service_type="0001"/>
 			<channel service_id="32df" name="NATIONAL GEO HD" service_type="0001"/>
 			<channel service_id="32e0" name="MiniMini+ HD" service_type="0001"/>
+			<channel service_id="32e1" name="CANAL+ EXTRA 1" service_type="0001"/>
+			<channel service_id="32e2" name="CANAL+ EXTRA 2" service_type="0001"/>
+			<channel service_id="32e3" name="CANAL+ EXTRA 3" service_type="0001"/>
 			<channel service_id="32f0" name="CANAL+ PREMIUM HD" service_type="0001"/>
 			<channel service_id="32fa" name="CANAL+ PREMIUM HD" service_type="0001"/>
 			<channel service_id="32fc" name="CANAL+ SPORT HD" service_type="0001"/>
@@ -519,6 +485,12 @@
 			<channel service_id="32fe" name="MiniMini+ HD" service_type="0001"/>
 			<channel service_id="32ff" name="CANAL+ NOW" service_type="0001"/>
 			<channel service_id="3304" name="CANAL+ PREMIUM HD" service_type="0001"/>
+			<channel service_id="3308" name="MiniMini+ HD" service_type="0001"/>
+			<channel service_id="330d" name="CANAL+ 4K ULTRA HD" service_type="001f"/>
+			<channel service_id="330e" name="CANAL+ 4K ULTRA HD" service_type="001f"/>
+			<channel service_id="3313" name="CANAL+ EXTRA 1" service_type="0001"/>
+			<channel service_id="3314" name="CANAL+ EXTRA 2" service_type="0001"/>
+			<channel service_id="3315" name="CANAL+ EXTRA 3" service_type="0001"/>
 			<channel service_id="331b" name="NATIONAL GEO HD" service_type="0001"/>
 			<channel service_id="331c" name="AXN SPIN HD" service_type="0001"/>
 			<channel service_id="3322" name="CANAL+ PREMIUM HD" service_type="0001"/>
@@ -526,28 +498,18 @@
 			<channel service_id="3327" name="CANAL+ NOW" service_type="0001"/>
 			<channel service_id="3329" name="CH13097" service_type="0000"/>
 			<channel service_id="332b" name="CH13099" service_type="0000"/>
-			<channel service_id="32d9" name="TVC SUPER" service_type="0001"/>
-			<channel service_id="32da" name="SZLAGIER TV" service_type="0001"/>
-			<channel service_id="32db" name="CANAL+ 4K ULTRA HD" service_type="001f"/>
-			<channel service_id="330d" name="CANAL+ 4K ULTRA HD" service_type="001f"/>
-			<channel service_id="330e" name="CANAL+ 4K ULTRA HD" service_type="001f"/>
-			<channel service_id="330f" name="CANAL+ 4K ULTRA HD" service_type="0001"/>
-			<channel service_id="3310" name="CANAL+ 4K ULTRA HD" service_type="0001"/>
-			<channel service_id="3311" name="CANAL+ 4K ULTRA HD" service_type="0001"/>
 		</transponder>
 		<transponder id="01f4" onid="013e" frequency="11296000" inversion="0" symbol_rate="27500000" fec_inner="5" polarization="0">
 			<channel service_id="0604" name="R Radio" service_type="0002"/>
 			<channel service_id="060e" name="Yemen Radio" service_type="0002"/>
 			<channel service_id="0899" name="Freedom TV" service_type="0001"/>
-			<channel service_id="089a" name="CBC_Azerbaycan" service_type="0001"/>
-			<channel service_id="089b" name="Iran e Aryaee" service_type="0001"/>
-			<channel service_id="089c" name="YEMEN TV" service_type="0001"/>
-			<channel service_id="089e" name="EHF U20" service_type="0001"/>
+			<channel service_id="089a" name="CBC_Azerbaijan" service_type="0001"/>
+			<channel service_id="089b" name="Iran E Aryee" service_type="0001"/>
+			<channel service_id="089c" name="Yemen TV" service_type="0001"/>
 			<channel service_id="08a6" name="Medya Haber" service_type="0001"/>
-			<channel service_id="08b2" name="NEW LIFE RADIO" service_type="0002"/>
+			<channel service_id="08b2" name="New Life Radio" service_type="0002"/>
 			<channel service_id="08b3" name="WELAT" service_type="0002"/>
 			<channel service_id="08b4" name="Radio2000" service_type="0002"/>
-			<channel service_id="08b5" name="Love Nature 4K" service_type="0020"/>
 		</transponder>
 		<transponder id="0259" onid="013e" frequency="11316000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
 		</transponder>
@@ -560,22 +522,19 @@
 			<channel service_id="02f0" name="Eurosport 1 Serbian HD" service_type="0019"/>
 			<channel service_id="02f1" name="Eurosport 2 Serbian HD" service_type="0019"/>
 			<channel service_id="02f2" name="Eurosport 2 Greek HD" service_type="0019"/>
-			<channel service_id="02f3" name="Eurosport 3 HD" service_type="0019"/>
-			<channel service_id="02f4" name="Eurosport 4 HD" service_type="0019"/>
-			<channel service_id="02f5" name="Eurosport 5 HD" service_type="0019"/>
-			<channel service_id="02f6" name="Eurosport 6 HD" service_type="0019"/>
 		</transponder>
 		<transponder id="0384" onid="013e" frequency="11373000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
 			<channel service_id="01f5" name="Iran International HD" service_type="0001"/>
-			<channel service_id="01f8" name="NASA TV HD" service_type="0001"/>
+			<channel service_id="01f7" name="Bayyinat TV" service_type="0019"/>
 			<channel service_id="01fa" name="RUDAW HD" service_type="0001"/>
 			<channel service_id="01fb" name="Al Mayadeen HD" service_type="0019"/>
 			<channel service_id="01fc" name="Kurdistan 24 HD" service_type="0001"/>
 			<channel service_id="01fe" name="Parole di Vita" service_type="0001"/>
 			<channel service_id="0215" name="NHK WORLD-JAPAN" service_type="0019"/>
 			<channel service_id="0216" name="Iraqia News HD" service_type="0001"/>
-			<channel service_id="0217" name="AirBox" service_type="0019"/>
+			<channel service_id="0217" name="Eutelsat" service_type="0019"/>
 			<channel service_id="0218" name="PBX1024" service_type="0019"/>
+			<channel service_id="0219" name="Jek TV" service_type="0001"/>
 		</transponder>
 		<transponder id="03e8" onid="013e" frequency="11393000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
 			<channel service_id="10dd" name="Discovery Poland HD" service_type="0019"/>
@@ -593,9 +552,9 @@
 		</transponder>
 		<transponder id="044c" onid="013e" frequency="11411000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
 			<channel service_id="3779" name="CANAL+ FILM HD" service_type="0001"/>
-			<channel service_id="377b" name="CANAL+ FAMILY HD" service_type="0019"/>
+			<channel service_id="377a" name="CANAL+ DOKUMENT HD" service_type="0001"/>
+			<channel service_id="377b" name="CANAL+ 360" service_type="0019"/>
 			<channel service_id="377c" name="StudioMed TV" service_type="0019"/>
-			<channel service_id="377d" name="teleTOON+ HD" service_type="0019"/>
 			<channel service_id="377e" name="Planete+ HD" service_type="0019"/>
 			<channel service_id="377f" name="CANAL+ KUCHNIA" service_type="0019"/>
 			<channel service_id="3781" name="Ale kino+ HD" service_type="0019"/>
@@ -617,10 +576,14 @@
 			<channel service_id="3799" name="Radio Contact" service_type="0002"/>
 			<channel service_id="379f" name="Ale kino+ HD" service_type="0019"/>
 			<channel service_id="37ab" name="CANAL+ FILM HD" service_type="0001"/>
-			<channel service_id="37af" name="teleTOON+ HD" service_type="0019"/>
+			<channel service_id="37ac" name="CANAL+ DOKUMENT HD" service_type="0001"/>
+			<channel service_id="37ad" name="CANAL+ 360" service_type="0019"/>
 			<channel service_id="37b0" name="Planete+ HD" service_type="0019"/>
 			<channel service_id="37b1" name="CANAL+ KUCHNIA" service_type="0019"/>
 			<channel service_id="37b4" name="CANAL+ SERIALE HD" service_type="0019"/>
+			<channel service_id="37b7" name="CANAL+ 360" service_type="0019"/>
+			<channel service_id="37bd" name="Ale kino+ HD" service_type="0019"/>
+			<channel service_id="37c1" name="CANAL+ 360" service_type="0019"/>
 			<channel service_id="37c8" name="CH14280" service_type="0002"/>
 			<channel service_id="37db" name="CH14299" service_type="0000"/>
 		</transponder>
@@ -644,7 +607,6 @@
 			<channel service_id="0087" name="27Twentyseven HD" service_type="0019"/>
 		</transponder>
 		<transponder id="0514" onid="013e" frequency="11449000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
-			<channel service_id="3a99" name="CANAL+ DOKUMENT HD" service_type="0001"/>
 			<channel service_id="3a9a" name="NOVELAS+" service_type="0001"/>
 			<channel service_id="3a9b" name="teleTOON+ HD" service_type="0001"/>
 			<channel service_id="3a9d" name="TVP Dokument HD" service_type="0001"/>
@@ -652,6 +614,7 @@
 			<channel service_id="3a9f" name="Cinemax HD" service_type="0001"/>
 			<channel service_id="3aa0" name="CANAL+ SPORT 3 HD" service_type="0001"/>
 			<channel service_id="3aa1" name="CANAL+ SPORT 4 HD" service_type="0001"/>
+			<channel service_id="3aa3" name="CANAL+ EXTRA 4" service_type="0001"/>
 			<channel service_id="3aa5" name="CANAL+ SPORT 5 HD" service_type="0001"/>
 			<channel service_id="3ab7" name="AMC" service_type="0001"/>
 			<channel service_id="3ab9" name="CANAL+ SPORT 5 HD" service_type="0001"/>
@@ -659,13 +622,16 @@
 			<channel service_id="3abe" name="Romance TV" service_type="0001"/>
 			<channel service_id="3ac9" name="Data" service_type="0000"/>
 			<channel service_id="3aca" name="Upload" service_type="0000"/>
-			<channel service_id="3acb" name="CANAL+ DOKUMENT HD" service_type="0001"/>
 			<channel service_id="3acc" name="NOVELAS+" service_type="0001"/>
+			<channel service_id="3acd" name="teleTOON+ HD" service_type="0001"/>
 			<channel service_id="3ad0" name="TVP Sport HD" service_type="0001"/>
 			<channel service_id="3ad1" name="Cinemax HD" service_type="0001"/>
 			<channel service_id="3ad2" name="CANAL+ SPORT 3 HD" service_type="0001"/>
 			<channel service_id="3ad3" name="CANAL+ SPORT 4 HD" service_type="0001"/>
 			<channel service_id="3ad4" name="Faktura" service_type="0000"/>
+			<channel service_id="3ad5" name="CANAL+ EXTRA 4" service_type="0001"/>
+			<channel service_id="3ad6" name="NOVELAS+" service_type="0001"/>
+			<channel service_id="3ad7" name="teleTOON+ HD" service_type="0001"/>
 			<channel service_id="3adb" name="TVP 1 HD" service_type="0001"/>
 			<channel service_id="3adc" name="Romance TV" service_type="0001"/>
 			<channel service_id="3ae1" name="CANAL+ SPORT 5 HD" service_type="0001"/>
@@ -674,7 +640,6 @@
 			<channel service_id="3af0" name="CANAL+ SPORT 3 HD" service_type="0001"/>
 			<channel service_id="3af1" name="CANAL+ SPORT 4 HD" service_type="0001"/>
 			<channel service_id="3b38" name="pVOD" service_type="0000"/>
-			<channel service_id="3acd" name="teleTOON+ HD" service_type="0001"/>
 		</transponder>
 		<transponder id="05dc" onid="013e" frequency="11488000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
 			<channel service_id="13ed" name="CANAL+1 HD" service_type="0001"/>
@@ -688,6 +653,7 @@
 			<channel service_id="13f7" name="TVP 3" service_type="0001"/>
 			<channel service_id="13f8" name="Eleven Sports 3 HD" service_type="0001"/>
 			<channel service_id="13f9" name="HBO3 HD" service_type="0001"/>
+			<channel service_id="13fa" name="Eleven Sports 4 HD" service_type="0001"/>
 			<channel service_id="1410" name="Radio ZET" service_type="0002"/>
 			<channel service_id="1411" name="Meloradio" service_type="0002"/>
 			<channel service_id="1412" name="Chillizet" service_type="0002"/>
@@ -757,7 +723,7 @@
 			<channel service_id="036d" name="CGTN A" service_type="0001"/>
 		</transponder>
 		<transponder id="3d54" onid="013e" frequency="11642000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
-			<channel service_id="051a" name="Simay Azadi HD" service_type="0019"/>
+			<channel service_id="051a" name="Simay Azadi HD" service_type="0001"/>
 			<channel service_id="051b" name="RTL 102.5 HD" service_type="0019"/>
 			<channel service_id="051c" name="RADIOFRECCIA HD" service_type="0019"/>
 			<channel service_id="051f" name="RADIONORBA TV" service_type="0001"/>
@@ -771,7 +737,7 @@
 			<channel service_id="0532" name="RVS-Accendi la Speranza" service_type="0002"/>
 			<channel service_id="0534" name="GOLD TV" service_type="0016"/>
 			<channel service_id="0535" name="ER24" service_type="0001"/>
-			<channel service_id="0538" name="Value24" service_type="0001"/>
+			<channel service_id="0537" name="WellTV" service_type="0001"/>
 			<channel service_id="0539" name="WeDo TV" service_type="0019"/>
 			<channel service_id="053a" name="Vilayet TV" service_type="0016"/>
 			<channel service_id="053b" name="Baby TV" service_type="0001"/>
@@ -793,9 +759,6 @@
 			<channel service_id="4267" name="Vivid Red HD" service_type="0001"/>
 			<channel service_id="4260" name="VIDEOLINA" service_type="0001"/>
 			<channel service_id="4255" name="Radio Number One" service_type="0002"/>
-			<channel service_id="4257" name="CIAO" service_type="0001"/>
-			<channel service_id="425a" name="Napoli Mia" service_type="0001"/>
-			<channel service_id="4261" name="Teleitalia" service_type="0001"/>
 			<channel service_id="421a" name="TRM h24" service_type="0001"/>
 			<channel service_id="4247" name="SURYOYO SAT" service_type="0001"/>
 			<channel service_id="4250" name="Radio Kiss Kiss Tv" service_type="0001"/>
@@ -804,6 +767,7 @@
 			<channel service_id="423d" name="Water Planet V1" service_type="0001"/>
 			<channel service_id="423f" name="Novela Tv V1" service_type="0001"/>
 			<channel service_id="424f" name="RDS Social TV 4K test" service_type="0001"/>
+			<channel service_id="4256" name="Canzoni Napoletane" service_type="0002"/>
 		</transponder>
 		<transponder id="3e1c" onid="013f" frequency="11681000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
 			<channel service_id="012d" name="TF1 HD" service_type="0001"/>
@@ -901,19 +865,19 @@
 			<channel service_id="1015" name="Discovery" service_type="0019"/>
 			<channel service_id="1020" name="Sky Crime" service_type="0019"/>
 			<channel service_id="104a" name="Classica HD" service_type="0019"/>
-			<channel service_id="106c" name="Jack Ryan Collection" service_type="0019"/>
+			<channel service_id="106c" name="Ritorno al futuro Collection" service_type="0019"/>
 			<channel service_id="1c3f" name="Sky Cinema Romance" service_type="0019"/>
-			<channel service_id="1c50" name="Sky Sport Max" service_type="0019"/>
+			<channel service_id="1c50" name="Sky Sport America&apos;s Cup" service_type="0019"/>
 			<channel service_id="37a9" name="Sky Crime" service_type="0019"/>
 			<channel service_id="37b2" name="Cartoon Network" service_type="0019"/>
-			<channel service_id="37ba" name="Sky Uno Collection" service_type="0019"/>
+			<channel service_id="37ba" name="Sky Uno +1" service_type="0019"/>
 			<channel service_id="37d3" name="Fusion BGDL 14291" service_type="0000"/>
 			<channel service_id="37d7" name="IEPG Data" service_type="0000"/>
 		</transponder>
 		<transponder id="1518" onid="013e" frequency="11804000" inversion="0" symbol_rate="29700000" fec_inner="3" polarization="1">
 			<channel service_id="0191" name="MTV 00s" service_type="0001"/>
 			<channel service_id="0192" name="MTV Hits" service_type="0001"/>
-			<channel service_id="0193" name="TESTHLSHD" service_type="0001"/>
+			<channel service_id="0193" name="COSMOTESportHLHD" service_type="0001"/>
 			<channel service_id="0194" name="Travel Channel HD" service_type="0001"/>
 			<channel service_id="0195" name="Nat Geo Wild HD" service_type="0001"/>
 			<channel service_id="0196" name="MTV" service_type="0001"/>
@@ -934,13 +898,16 @@
 		</transponder>
 		<transponder id="157c" onid="013e" frequency="11823000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
 			<channel service_id="012e" name="EPT2 HD" service_type="0001"/>
-			<channel service_id="012f" name="TEST1HD" service_type="0001"/>
-			<channel service_id="0130" name="TEST2HD" service_type="0001"/>
-			<channel service_id="0134" name="M1_TEST1" service_type="0001"/>
+			<channel service_id="012f" name="COSMOTESport1HD" service_type="0001"/>
+			<channel service_id="0130" name="COSMOTESport2HD" service_type="0001"/>
 			<channel service_id="0135" name="Love Radio" service_type="0002"/>
 			<channel service_id="0136" name="Εκκλησία της Ελλ" service_type="0002"/>
 			<channel service_id="0137" name="Skai Radio" service_type="0002"/>
 			<channel service_id="0138" name="Melodi Radio" service_type="0002"/>
+			<channel service_id="0139" name="ERT World Europe" service_type="0001"/>
+			<channel service_id="013a" name="Nickelodeon" service_type="0001"/>
+			<channel service_id="013b" name="nova MAD GREEKZ" service_type="0001"/>
+			<channel service_id="013c" name="VOICE OF GREECE" service_type="0002"/>
 			<channel service_id="013e" name="Novasportsextra2HD" service_type="0001"/>
 			<channel service_id="0142" name="EPT1 HD" service_type="0001"/>
 			<channel service_id="0143" name="Novasports5HD" service_type="0001"/>
@@ -1057,7 +1024,7 @@
 			<channel service_id="1016" name="Prime Video Sportsbar" service_type="0019"/>
 			<channel service_id="101c" name="Sky Crime +1" service_type="0019"/>
 			<channel service_id="101d" name="Sky Crime +1" service_type="0019"/>
-			<channel service_id="1e5f" name="Eurosport 9" service_type="0019"/>
+			<channel service_id="1e5f" name="Sky Sport" service_type="0019"/>
 			<channel service_id="2504" name="On Board Sky HD" service_type="0001"/>
 			<channel service_id="2506" name="Sky Sport F1" service_type="0019"/>
 			<channel service_id="2509" name="ON Board Mix HD" service_type="0001"/>
@@ -1074,8 +1041,8 @@
 			<channel service_id="0069" name="Radio 105" service_type="0002"/>
 			<channel service_id="006a" name="RADIO SUBASIO" service_type="0002"/>
 			<channel service_id="006e" name="Radiolina" service_type="0002"/>
-			<channel service_id="0321" name="ZONA DAZN" service_type="0019"/>
-			<channel service_id="0322" name="ZONA DAZN 2" service_type="0000"/>
+			<channel service_id="0321" name="DAZN 1" service_type="0019"/>
+			<channel service_id="0322" name="DAZN 2" service_type="0019"/>
 		</transponder>
 		<transponder id="17d4" onid="013e" frequency="11938000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
 			<channel service_id="1bbd" name="ΕΡΤ NEWS" service_type="0001"/>
@@ -1088,10 +1055,10 @@
 			<channel service_id="1bc5" name="One Channel HD" service_type="0001"/>
 			<channel service_id="1bc8" name="Epic Drama HD" service_type="0001"/>
 			<channel service_id="1bca" name="Novacinema2HD" service_type="0001"/>
-			<channel service_id="1bcb" name="TEST4HD" service_type="0001"/>
-			<channel service_id="1bcc" name="TEST5HD" service_type="0001"/>
+			<channel service_id="1bcb" name="COSMOTESport4HD" service_type="0001"/>
+			<channel service_id="1bcc" name="COSMOTESport5HD" service_type="0001"/>
 			<channel service_id="1bcd" name="Mad Radio" service_type="0002"/>
-			<channel service_id="1bce" name="TEST6HD" service_type="0001"/>
+			<channel service_id="1bce" name="COSMOTESport6HD" service_type="0001"/>
 			<channel service_id="1bcf" name="Cobalt Data" service_type="0000"/>
 			<channel service_id="1bd2" name="Cartoonito HD" service_type="0001"/>
 			<channel service_id="1bd4" name="Adult Pack Info" service_type="0001"/>
@@ -1110,7 +1077,6 @@
 			<channel service_id="3792" name="Sky Atlantic" service_type="0019"/>
 		</transponder>
 		<transponder id="189c" onid="fbff" frequency="11976000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="0">
-			<channel service_id="0dcf" name="DAZN 2" service_type="0019"/>
 			<channel service_id="0f58" name="Sky Documentaries +1" service_type="0019"/>
 			<channel service_id="0f5d" name="Sky Investigation Maratone" service_type="0019"/>
 			<channel service_id="0f5e" name="Sky Documentaries +1" service_type="0019"/>
@@ -1127,7 +1093,6 @@
 			<channel service_id="250f" name="Inter TV" service_type="0019"/>
 			<channel service_id="2c3a" name="Discovery +1" service_type="0001"/>
 			<channel service_id="2c4f" name="Boomerang +1" service_type="0001"/>
-			<channel service_id="0dcf" name="DAZN 2" service_type="0019"/>
 			<channel service_id="0f58" name="Sky Documentaries +1" service_type="0019"/>
 			<channel service_id="0f5d" name="Sky Investigation Maratone" service_type="0019"/>
 			<channel service_id="0f5e" name="Sky Documentaries +1" service_type="0019"/>
@@ -1148,10 +1113,9 @@
 		<transponder id="189c" onid="fbff" frequency="11976000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="0">
 		</transponder>
 		<transponder id="1900" onid="fbff" frequency="11996000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="1">
-			<channel service_id="0f6f" name="Eurosport 4" service_type="0019"/>
-			<channel service_id="0fc6" name="Nick Jr +1" service_type="0001"/>
+			<channel service_id="0f6f" name="Sky Sport" service_type="0019"/>
+			<channel service_id="0fc6" name="Nick Jr. +1" service_type="0001"/>
 			<channel service_id="10fe" name="Caccia e PESCA" service_type="0001"/>
-			<channel service_id="1fb0" name="Lazio Style HD" service_type="0019"/>
 			<channel service_id="2b27" name="Sky Cinema Suspense" service_type="0019"/>
 			<channel service_id="2b39" name="SDMS Service1" service_type="0000"/>
 			<channel service_id="2b3b" name="SDMS Service2" service_type="0000"/>
@@ -1192,6 +1156,7 @@
 			<channel service_id="0594" name="MTV Music" service_type="0001"/>
 			<channel service_id="0595" name="MTV Music" service_type="0001"/>
 			<channel service_id="0599" name="Class CNBC" service_type="0001"/>
+			<channel service_id="059a" name="VALUE 24 TV" service_type="0019"/>
 			<channel service_id="1fa7" name="Fox News" service_type="0001"/>
 			<channel service_id="1fac" name="Sky News" service_type="0001"/>
 			<channel service_id="2bb6" name="Fusion BGDL 11190" service_type="0000"/>
@@ -1207,7 +1172,7 @@
 			<channel service_id="2c46" name="Cinema HD" service_type="0019"/>
 			<channel service_id="2c4d" name="Primafila HD" service_type="0019"/>
 			<channel service_id="2c52" name="Sport HD" service_type="0019"/>
-			<channel service_id="2c5b" name="Cartoon +1" service_type="0001"/>
+			<channel service_id="2c5b" name="Cartoon Network +1" service_type="0001"/>
 			<channel service_id="2c6b" name="Intrattenim. HD" service_type="0019"/>
 			<channel service_id="2c77" name="Sky Sport HD" service_type="0019"/>
 			<channel service_id="2cc4" name="DeAKids" service_type="0001"/>
@@ -1221,14 +1186,14 @@
 		</transponder>
 		<transponder id="1a2c" onid="fbff" frequency="12054000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="0">
 			<channel service_id="0590" name="Nick Jr" service_type="0001"/>
-			<channel service_id="0dcf" name="CH3535" service_type="0001"/>
+			<channel service_id="0dcf" name="DAZN 2" service_type="0019"/>
 			<channel service_id="1006" name="BIKE" service_type="0019"/>
 			<channel service_id="110d" name="TV2000 HD" service_type="0019"/>
 			<channel service_id="110e" name="Radio Vaticana Europa" service_type="0002"/>
 			<channel service_id="1c4d" name="CNBC HD" service_type="0019"/>
 			<channel service_id="2b7b" name="InBlu" service_type="0002"/>
 			<channel service_id="2ba6" name="INBLU2000" service_type="0002"/>
-			<channel service_id="2da0" name="Eurosport 4K" service_type="001f"/>
+			<channel service_id="2da0" name="Sky Sport Hidden 4k" service_type="001f"/>
 			<channel service_id="2e0e" name="Fusion BGDL 11790" service_type="0000"/>
 			<channel service_id="2e17" name="IEPG Data" service_type="0000"/>
 		</transponder>
@@ -1278,10 +1243,10 @@
 			<channel service_id="3c90" name="Novasports2HD" service_type="0001"/>
 			<channel service_id="3c91" name="STAR HD" service_type="0001"/>
 			<channel service_id="3c92" name="TLC" service_type="0001"/>
-			<channel service_id="3c93" name="TEST7HD" service_type="0001"/>
-			<channel service_id="3c94" name="TEST8HD" service_type="0001"/>
+			<channel service_id="3c93" name="COSMOTESport7HD" service_type="0001"/>
+			<channel service_id="3c94" name="COSMOTESport8HD" service_type="0001"/>
 			<channel service_id="3c95" name="Novacinema1HD" service_type="0001"/>
-			<channel service_id="3c96" name="TEST9HD" service_type="0001"/>
+			<channel service_id="3c96" name="COSMOTESport9HD" service_type="0001"/>
 			<channel service_id="3c97" name="E! Entertainment HD" service_type="0001"/>
 			<channel service_id="3c98" name="ATTICA TV" service_type="0001"/>
 			<channel service_id="3c99" name="Novasports2HD Cy" service_type="0001"/>
@@ -1309,13 +1274,10 @@
 			<channel service_id="1c53" name="R Tunisie Internatio" service_type="0002"/>
 			<channel service_id="1c56" name="SMTv San Marino HD" service_type="0001"/>
 			<channel service_id="1c57" name="SMTv San Marino Radio" service_type="0002"/>
-			<channel service_id="1c6f" name="BAYYINAT" service_type="0001"/>
 			<channel service_id="1c70" name="RADIO MATER" service_type="0002"/>
 			<channel service_id="1c71" name="Simaye Azadi SD" service_type="0001"/>
 			<channel service_id="1c72" name="R.BuonConsiglio" service_type="0002"/>
 			<channel service_id="1c73" name="TG NORBA 24" service_type="0001"/>
-			<channel service_id="2905" name="Radio Congo" service_type="0002"/>
-			<channel service_id="29cd" name="TV Congo" service_type="0001"/>
 			<channel service_id="29d1" name="EWTN English" service_type="0001"/>
 		</transponder>
 		<transponder id="1c84" onid="013e" frequency="12169000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
@@ -1324,7 +1286,7 @@
 			<channel service_id="0161" name="ERT World Europe" service_type="0001"/>
 			<channel service_id="0162" name="Novasports4HD" service_type="0001"/>
 			<channel service_id="0163" name="Novasports4HD Cy" service_type="0001"/>
-			<channel service_id="0165" name="TEST3HD" service_type="0001"/>
+			<channel service_id="0165" name="COSMOTESport3HD" service_type="0001"/>
 			<channel service_id="0166" name="OPEN BEYOND HD" service_type="0001"/>
 			<channel service_id="0167" name="Cobalt Data" service_type="0000"/>
 			<channel service_id="0169" name="Novasportsextra1HD" service_type="0001"/>
@@ -1332,6 +1294,8 @@
 			<channel service_id="016b" name="Kontra Channel" service_type="0001"/>
 			<channel service_id="016c" name="REAL FM" service_type="0002"/>
 			<channel service_id="016d" name="VOICE OF GREECE" service_type="0002"/>
+			<channel service_id="016e" name="Novacinema4HD" service_type="0001"/>
+			<channel service_id="016f" name="Novacinema4HD Cy" service_type="0001"/>
 			<channel service_id="0170" name="NOVALIFE HD" service_type="0001"/>
 			<channel service_id="0171" name="NOVALIFE Cy" service_type="0001"/>
 			<channel service_id="0172" name="Da Vinci HD" service_type="0001"/>
@@ -1371,6 +1335,7 @@
 			<channel service_id="1ca8" name="RMF MAXXX" service_type="0002"/>
 			<channel service_id="1caa" name="Zlote Przeboje" service_type="0002"/>
 			<channel service_id="1cac" name="Polsat Seriale HD" service_type="0001"/>
+			<channel service_id="1cad" name="Polsat Seriale HD" service_type="0001"/>
 			<channel service_id="1cb5" name="Disney XD" service_type="0001"/>
 			<channel service_id="1cb6" name="Disney Channel HD" service_type="0001"/>
 			<channel service_id="1cb7" name="Polsat Jim Jam" service_type="0001"/>
@@ -1378,7 +1343,6 @@
 			<channel service_id="1cbb" name="Vivid Touch SD" service_type="0001"/>
 			<channel service_id="1cbe" name="Polsat News Polityka HD" service_type="0001"/>
 			<channel service_id="1cbf" name="Polsat News Polityka HD" service_type="0001"/>
-			<channel service_id="1cc0" name="7360" service_type="0016"/>
 			<channel service_id="1cc5" name="Disney Channel HD" service_type="0001"/>
 			<channel service_id="1cc9" name="D64-Testowy" service_type="0000"/>
 			<channel service_id="1cca" name="Polsat Viasat Explore HD" service_type="0001"/>
@@ -1421,18 +1385,6 @@
 		<transponder id="1d4c" onid="013e" frequency="12206000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="0">
 		</transponder>
 		<transponder id="0065" onid="0001" frequency="12226000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
-			<channel service_id="0064" name="VOA EU HD" service_type="0001"/>
-			<channel service_id="0068" name="VOA 1" service_type="0002"/>
-			<channel service_id="00c8" name="Current Time HD" service_type="0001"/>
-			<channel service_id="00c9" name="Radio Svoboda" service_type="0002"/>
-			<channel service_id="00cb" name="Radio Ozodi" service_type="0002"/>
-			<channel service_id="00cf" name="Azatutyun" service_type="0002"/>
-			<channel service_id="00d3" name="Azattyk Unalgysy" service_type="0002"/>
-			<channel service_id="00d4" name="Ozodlik Radiosi" service_type="0002"/>
-			<channel service_id="00d9" name="Azatlyk Radiosy" service_type="0002"/>
-			<channel service_id="00de" name="RSE Balkans" service_type="0002"/>
-			<channel service_id="00e3" name="Evropa e Lire" service_type="0002"/>
-			<channel service_id="00eb" name="VOA 365 HD" service_type="0001"/>
 		</transponder>
 		<transponder id="1e78" onid="0071" frequency="12264000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="1">
 			<channel service_id="0016" name="Consumer Cam" service_type="0000"/>
@@ -1491,7 +1443,7 @@
 			<channel service_id="2908" name="Polsat Viasat Nature HD" service_type="0001"/>
 			<channel service_id="2909" name="Eska Rock HD" service_type="0001"/>
 			<channel service_id="290a" name="Extreme Sports HD" service_type="0001"/>
-			<channel service_id="290b" name="CBS Europa HD" service_type="0001"/>
+			<channel service_id="290b" name="Film Cafe" service_type="0001"/>
 			<channel service_id="290c" name="Wydarzenia 24 HD" service_type="0001"/>
 			<channel service_id="290d" name="Eska TV Extra HD" service_type="0001"/>
 			<channel service_id="290e" name="HBO HD" service_type="0001"/>
@@ -1516,14 +1468,16 @@
 			<channel service_id="39d1" name="BBC Persian HD" service_type="0019"/>
 			<channel service_id="39d2" name="Revival TV" service_type="0001"/>
 			<channel service_id="39d9" name="Sonlife" service_type="0001"/>
-			<channel service_id="39db" name="Kalemeh TV" service_type="0001"/>
+			<channel service_id="39db" name="KalemehTV" service_type="0001"/>
 			<channel service_id="39df" name="Rinascita del mondo" service_type="0001"/>
+			<channel service_id="39e0" name="MC EU" service_type="0001"/>
 		</transponder>
 		<transponder id="2008" onid="fbff" frequency="12341000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="1">
 			<channel service_id="0def" name="History +1" service_type="0001"/>
+			<channel service_id="0df0" name="Super!" service_type="0001"/>
 			<channel service_id="0fd9" name="History +1" service_type="0001"/>
-			<channel service_id="1089" name="Eurosport 5" service_type="0019"/>
-			<channel service_id="108a" name="Eurosport 6" service_type="0019"/>
+			<channel service_id="1089" name="Sky Sport" service_type="0019"/>
+			<channel service_id="108a" name="Sky Sport" service_type="0019"/>
 			<channel service_id="1090" name="Sky Serie +1" service_type="0019"/>
 			<channel service_id="109a" name="Sky Arte +1" service_type="0019"/>
 			<channel service_id="109b" name="Sky Arte +1" service_type="0019"/>
@@ -1537,7 +1491,6 @@
 		<transponder id="20d0" onid="013e" frequency="12380000" inversion="0" symbol_rate="30000000" fec_inner="5" polarization="1">
 			<channel service_id="0bc2" name="FashionTV L&apos;Original" service_type="0001"/>
 			<channel service_id="0bc3" name="Fashion TV HD" service_type="0001"/>
-			<channel service_id="0bc4" name="FTV UHD" service_type="0001"/>
 			<channel service_id="0bc5" name="Love Nature 4K" service_type="0020"/>
 			<channel service_id="0bea" name="Insight TV UHD" service_type="0011"/>
 		</transponder>
@@ -1562,9 +1515,9 @@
 			<channel service_id="039c" name="OMAN HOLY QURAN" service_type="0002"/>
 		</transponder>
 		<transponder id="2198" onid="fbff" frequency="12418000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="1">
-			<channel service_id="0f46" name="Eurosport 7" service_type="0019"/>
-			<channel service_id="0f48" name="Eurosport 8" service_type="0019"/>
-			<channel service_id="0f4d" name="Eurosport 3" service_type="0019"/>
+			<channel service_id="0f46" name="Sky Sport" service_type="0019"/>
+			<channel service_id="0f48" name="Sky Sport" service_type="0019"/>
+			<channel service_id="0f4d" name="Sky Sport" service_type="0019"/>
 			<channel service_id="0f66" name="" service_type="0001"/>
 			<channel service_id="0f89" name="IEPG Data" service_type="0000"/>
 			<channel service_id="0f96" name="Fusion BGDL 3990" service_type="0000"/>
@@ -1639,6 +1592,7 @@
 			<channel service_id="232c" name="Med Music" service_type="0001"/>
 			<channel service_id="232d" name="ORLER TV" service_type="0001"/>
 			<channel service_id="232e" name="Revelation TV" service_type="0001"/>
+			<channel service_id="232f" name="KENTRON TV" service_type="0001"/>
 			<channel service_id="2331" name="Angel TV Europe" service_type="0001"/>
 			<channel service_id="2332" name="BogBlagTV" service_type="0001"/>
 			<channel service_id="2333" name="STERK TV HD" service_type="0001"/>
@@ -1664,6 +1618,7 @@
 			<channel service_id="04b3" name="Saudi Ch for Quran HD" service_type="0019"/>
 			<channel service_id="04b4" name="Al Ekhbaria HD" service_type="0019"/>
 			<channel service_id="04b5" name="SAUDI TV HD" service_type="0019"/>
+			<channel service_id="04b6" name="KSA SPORT 4" service_type="0019"/>
 			<channel service_id="04b9" name="HotBird 4K1" service_type="0001"/>
 		</transponder>
 		<transponder id="2454" onid="013e" frequency="12576000" inversion="0" symbol_rate="27500000" fec_inner="3" polarization="0">
@@ -1672,6 +1627,7 @@
 			<channel service_id="0646" name="MS MOTOR TV" service_type="0001"/>
 			<channel service_id="064d" name="ACISPORT TV" service_type="0001"/>
 			<channel service_id="064e" name="MS CHANNEL" service_type="0001"/>
+			<channel service_id="0653" name="Radio Mariam Armenia" service_type="0002"/>
 			<channel service_id="0654" name="Noursat English" service_type="0001"/>
 			<channel service_id="069a" name="Eutelsat Data 1" service_type="0000"/>
 		</transponder>
@@ -1780,7 +1736,6 @@
 			<channel service_id="0041" name="Z-ROCK" service_type="0002"/>
 			<channel service_id="0042" name="Darik Sofia" service_type="0002"/>
 			<channel service_id="0043" name="Nova News" service_type="0002"/>
-			<channel service_id="0044" name="Start FM" service_type="0002"/>
 			<channel service_id="0045" name="Test Signal" service_type="0002"/>
 			<channel service_id="0046" name="Darik St Zagora" service_type="0002"/>
 			<channel service_id="004c" name="Radio Focus Burgas" service_type="0002"/>
@@ -1843,7 +1798,7 @@
 			<channel service_id="01cf" name="Science et Vie" service_type="0001"/>
 			<channel service_id="01d2" name="Téva" service_type="0001"/>
 			<channel service_id="01d4" name="XXL" service_type="0001"/>
-			<channel service_id="01d6" name="Golf Channel" service_type="0001"/>
+			<channel service_id="01d6" name="Padel Time TV" service_type="0001"/>
 		</transponder>
 		<transponder id="2710" onid="00d5" frequency="12713000" inversion="0" symbol_rate="29900000" fec_inner="5" polarization="1">
 			<channel service_id="1389" name="TV 1" service_type="0001"/>
@@ -1901,6 +1856,35 @@
 			<channel service_id="0276" name="Cobalt Data" service_type="0000"/>
 		</transponder>
 	</sat>
+	<sat name="Terrestrial" diseqc="0" position="0">
+		<transponder id="0200" onid="001d" frequency="690000000" inversion="0" symbol_rate="0" fec_inner="9" polarization="0">
+			<channel service_id="0028" name="SUPERTENNIS" service_type="0019"/>
+			<channel service_id="0037" name="Super!" service_type="0016"/>
+			<channel service_id="005a" name="Sky TG24" service_type="0016"/>
+		</transponder>
+		<transponder id="7918" onid="217c" frequency="658000000" inversion="0" symbol_rate="0" fec_inner="9" polarization="0">
+			<channel service_id="0029" name="Deejay TV HD" service_type="0019"/>
+			<channel service_id="0051" name="SPORTITALIA HD" service_type="0019"/>
+		</transponder>
+		<transponder id="0385" onid="0110" frequency="674000000" inversion="0" symbol_rate="0" fec_inner="9" polarization="0">
+			<channel service_id="0065" name="R101 TV" service_type="0019"/>
+			<channel service_id="0074" name="RADIO 105" service_type="0019"/>
+		</transponder>
+		<transponder id="0389" onid="0110" frequency="594000000" inversion="0" symbol_rate="0" fec_inner="9" polarization="0">
+			<channel service_id="084e" name="Boing Plus" service_type="0016"/>
+		</transponder>
+		<transponder id="03a2" onid="0110" frequency="610000000" inversion="0" symbol_rate="0" fec_inner="9" polarization="0">
+			<channel service_id="0c80" name="Test HEVC Main10" service_type="001f"/>
+		</transponder>
+		<transponder id="0002" onid="217c" frequency="626000000" inversion="0" symbol_rate="0" fec_inner="9" polarization="0">
+			<channel service_id="042d" name="CH1069" service_type="001f"/>
+			<channel service_id="042e" name="CH1070" service_type="001f"/>
+			<channel service_id="0430" name="Rai 4K Test" service_type="001f"/>
+		</transponder>
+		<transponder id="0384" onid="0110" frequency="498000000" inversion="0" symbol_rate="0" fec_inner="9" polarization="0">
+			<channel service_id="1c1d" name="CH7197" service_type="0016"/>
+		</transponder>
+	</sat>
 </zapit>
 <!-- Editor: e2 SAT Editor 1.6 <https://github.com/ctlcltd/e2-sat-editor> -->
-<!-- Datetime: 2024-07-26 13:16:24+0200 -->
+<!-- Datetime: 2024-10-13 12:38:05+0200 -->

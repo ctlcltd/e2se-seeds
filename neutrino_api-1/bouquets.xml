@@ -68,8 +68,9 @@
 		<channel serviceID="00e6" name="Kabelio Channel 5" tsid="2db4" onid="013e" sat_position="130"/>
 		<channel serviceID="0100" name="Kabelio Sky News" tsid="2db4" onid="013e" sat_position="130"/>
 		<channel serviceID="00fc" name="Kabelio BVN" tsid="2db4" onid="013e" sat_position="130"/>
-		<channel serviceID="0101" name="Kabelio Mooz Dance" tsid="2db4" onid="013e" sat_position="130"/>
+		<channel serviceID="0101" name="Kabelio TV8 Italia" tsid="2db4" onid="013e" sat_position="130"/>
 		<channel serviceID="0088" name="Kabelio Info" tsid="3264" onid="013e" sat_position="130"/>
+		<channel serviceID="008b" name="Kabelio Spare" tsid="3264" onid="013e" sat_position="130"/>
 		<channel serviceID="0a01" name="VirtualChannelTest" tsid="2db4" onid="013e" sat_position="130"/>
 	</Bouquet>
 	<Bouquet name="Italy" hidden="0" locked="0">
@@ -167,17 +168,16 @@
 		<channel serviceID="0369" name="CGTN Documentary" tsid="3c28" onid="013e" sat_position="130"/>
 		<channel serviceID="3331" name="TV5MONDE EUROPE" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="0215" name="NHK WORLD-JAPAN" tsid="0384" onid="013e" sat_position="130"/>
-		<channel serviceID="01f8" name="NASA TV HD" tsid="0384" onid="013e" sat_position="130"/>
 		<channel serviceID="0bc3" name="Fashion TV HD" tsid="20d0" onid="013e" sat_position="130"/>
 		<channel serviceID="0133" name="Arte HD" tsid="3e1c" onid="013f" sat_position="130"/>
 		<channel serviceID="2147" name="Camera Deputati" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="2148" name="Senato" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="4556" name="Rai 3 TGR Furlanija Julijska Kr" tsid="30d4" onid="013e" sat_position="130"/>
-		<channel serviceID="041b" name="Rai Sport HD test HEVC" tsid="0002" onid="217c" sat_position="0"/>
+		<channel serviceID="0430" name="Rai 4K Test" tsid="0002" onid="217c" sat_position="0"/>
 		<channel serviceID="2140" name="Rai Radio 2 Visual" tsid="3070" onid="013e" sat_position="130"/>
 		<channel serviceID="0642" name="Italian Fishing TV" tsid="2454" onid="013e" sat_position="130"/>
 		<channel serviceID="4244" name="Arte Atelier" tsid="3db8" onid="013e" sat_position="130"/>
-		<channel serviceID="0538" name="Value24" tsid="3d54" onid="013e" sat_position="130"/>
+		<channel serviceID="059a" name="VALUE 24 TV" tsid="19c8" onid="fbff" sat_position="130"/>
 		<channel serviceID="4234" name="ByoBlu" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="422e" name="Horse TV HD" tsid="2f44" onid="013e" sat_position="130"/>
 		<channel serviceID="4243" name="EQUtv" tsid="3db8" onid="013e" sat_position="130"/>
@@ -203,8 +203,7 @@
 		<channel serviceID="0161" name="ERT World Europe" tsid="1c84" onid="013e" sat_position="130"/>
 		<channel serviceID="0dad" name="TVE Internacional" tsid="1f40" onid="013e" sat_position="130"/>
 		<channel serviceID="04b9" name="HotBird 4K1" tsid="23f0" onid="013e" sat_position="130"/>
-		<channel serviceID="11fa" name="Nasa TV UHD" tsid="2b5c" onid="013e" sat_position="130"/>
-		<channel serviceID="0bc4" name="FTV UHD" tsid="20d0" onid="013e" sat_position="130"/>
+		<channel serviceID="0bc5" name="Love Nature 4K" tsid="20d0" onid="013e" sat_position="130"/>
 		<channel serviceID="11fc" name="Museum 4K" tsid="2b5c" onid="013e" sat_position="130"/>
 		<channel serviceID="11fd" name="MyZen 4K" tsid="2b5c" onid="013e" sat_position="130"/>
 		<channel serviceID="11fb" name="TravelXP 4K" tsid="2b5c" onid="013e" sat_position="130"/>
@@ -276,7 +275,6 @@
 		<channel serviceID="135d" name="Radio Margherita" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="0e35" name="Radio Sportiva" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0e48" name="popolare" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="1359" name="Radio Sintony" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="135a" name="Radio Supersound" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="4255" name="Radio Number One" tsid="3db8" onid="013e" sat_position="130"/>
 		<channel serviceID="0300" name="Discoradio" tsid="1b58" onid="013e" sat_position="130"/>
@@ -315,7 +313,6 @@
 		<channel serviceID="1418" name="CANAL+ PR" tsid="05dc" onid="013e" sat_position="130"/>
 		<channel serviceID="1419" name="JASNA GORA" tsid="05dc" onid="013e" sat_position="130"/>
 		<channel serviceID="142a" name="TOK FM" tsid="05dc" onid="013e" sat_position="130"/>
-		<channel serviceID="2905" name="Radio Congo" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="3346" name="BBC Horn of Africa" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3348" name="BBC English (Europe)" tsid="1388" onid="013e" sat_position="130"/>
 		<channel serviceID="3349" name="BBC English Mid_East" tsid="1388" onid="013e" sat_position="130"/>
@@ -360,7 +357,6 @@
 		<channel serviceID="0e3b" name="RADIO ZETA" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0e43" name="DEEJAY" tsid="1c20" onid="013e" sat_position="130"/>
 		<channel serviceID="0e45" name="M DUE O" tsid="1c20" onid="013e" sat_position="130"/>
-		<channel serviceID="1359" name="Radio Sintony" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="135a" name="Radio Supersound" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="135b" name="Radio Gamma Stereo" tsid="33f4" onid="013e" sat_position="130"/>
 		<channel serviceID="135d" name="Radio Margherita" tsid="33f4" onid="013e" sat_position="130"/>
@@ -419,12 +415,11 @@
 		<channel serviceID="434f" name="Rete Uno" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4350" name="Rete Due" tsid="300c" onid="013e" sat_position="130"/>
 		<channel serviceID="4351" name="Rete Tre" tsid="300c" onid="013e" sat_position="130"/>
-		<channel serviceID="43c0" name="The Overcomer" tsid="2cec" onid="013e" sat_position="130"/>
-		<channel serviceID="0604" name="R Radio" tsid="01f4" onid="013e" sat_position="130"/>
-		<channel serviceID="060e" name="Yemen Radio" tsid="01f4" onid="013e" sat_position="130"/>
-		<channel serviceID="08b2" name="NEW LIFE RADIO" tsid="01f4" onid="013e" sat_position="130"/>
-		<channel serviceID="08b3" name="WELAT" tsid="01f4" onid="013e" sat_position="130"/>
-		<channel serviceID="08b4" name="Radio2000" tsid="01f4" onid="013e" sat_position="130"/>
+		<channel serviceID="0604" name="R Radio" tsid="01f4" onid="00fc" sat_position="130"/>
+		<channel serviceID="060e" name="Yemen Radio" tsid="01f4" onid="00fc" sat_position="130"/>
+		<channel serviceID="08b2" name="New Life Radio" tsid="01f4" onid="00fc" sat_position="130"/>
+		<channel serviceID="08b3" name="WELAT" tsid="01f4" onid="00fc" sat_position="130"/>
+		<channel serviceID="08b4" name="Radio2000" tsid="01f4" onid="00fc" sat_position="130"/>
 		<channel serviceID="0010" name="Radio Med VI" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="0032" name="Agadir" tsid="2e18" onid="00b0" sat_position="130"/>
 		<channel serviceID="0035" name="Oujda" tsid="2e18" onid="00b0" sat_position="130"/>
